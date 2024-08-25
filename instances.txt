@@ -13,3 +13,5 @@ https://neptun.unithe.hu/hallgatoing/
 https://neptun.vhf.hu/hallgato_ng/
 https://neptun-web3.tr.pte.hu/hallgatoing/
 https://neptun.wsuf.hu/hallgatoing/
+https://neptunweb2.metropolitan.hu/hallgato_ng/
+https://neptun.lfze.hu/hallgato_angular/
