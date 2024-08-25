@@ -9,6 +9,8 @@ on:
 
 jobs:
   update-instances:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
     - name: Check out repository
