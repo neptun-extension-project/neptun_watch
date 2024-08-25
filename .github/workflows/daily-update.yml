@@ -26,6 +26,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
+    - name: Sort instances.txt
+      run: |
+        sort -u instances.txt -o instances.txt
+        git diff --quiet instances.txt || (git add instances.txt && git commit -m "Sort instances.txt" && git push)
+
     - name: Run update script
       run: python update_instances.py
 
