@@ -1,6 +1,8 @@
 name: Daily Instance Update
 
 # a fájlt teljes egészében Claude 3.5 Sonnet írta, pár apró módosítástól eltekintve
+permissions:
+  contents: write
 
 on:
   schedule:
@@ -9,8 +11,6 @@ on:
 
 jobs:
   update-instances:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
     - name: Check out repository
