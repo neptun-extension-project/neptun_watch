@@ -28,6 +28,8 @@ jobs:
 
     - name: Sort instances.txt
       run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
         sort -u instances.txt -o instances.txt
         git diff --quiet instances.txt || (git add instances.txt && git commit -m "Sort instances.txt" && git push)
 
