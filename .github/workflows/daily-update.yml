@@ -1,0 +1,30 @@
+name: Daily Instance Update
+
+# a fájlt teljes egészében Claude 3.5 Sonnet írta, pár apró módosítástól eltekintve
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-instances:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Run update script
+      run: python update_instances.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update instances information" && git push)

@@ -44,7 +44,8 @@ for url in instances:
 markdown_table = create_markdown_table(headers, table_data)
 
 with open('README.md', 'w') as file:
-    file.write("# Instances Information\n\n")
+    file.write("# Új Neptun szerverek adatai\n\n")
+    file.write("Itt egy naponta frissülő listát találsz, amit az ismert új Neptun szerverek verzióit és pár metaadatát követi.\n\n")
     file.write(markdown_table)
 
 print("Markdown table has been written to README.md")
