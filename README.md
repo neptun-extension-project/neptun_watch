@@ -10,10 +10,10 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/mtfhw/                   | 2024.2.21 | 2024-08-29T13:12:16 | Magyar Táncművészeti Egyetem              | 3                |
 | https://nappw.dfad.duf.hu/hallgato_ng/          | 2024.2.16 | 2024-08-23T15:44:07 | Dunaújvárosi Egyetem                      | 3                |
 | https://neptun-hweb.sze.hu/hallgato_ng/         | 2024.2.15 | 2024-08-22T13:52:39 | Széchenyi István Egyetem                  | 3                |
-| https://neptun-web3.tr.pte.hu/hallgatoing/      | N/A       | N/A                 | N/A                                       | N/A              |
+| https://neptun-web3.tr.pte.hu/hallgatoing/      | 2024.2.21 | 2024-08-29T13:12:16 | Pécsi Tudományegyetem                     | 3                |
 | https://neptun.ejf.hu/hallgato_ng/              | 2024.2.20 | 2024-08-28T16:38:57 | Eötvös József Főiskola                    | 3                |
 | https://neptun.gde.hu/hallgato/                 | 2024.2.20 | 2024-08-28T16:38:57 | Gábor Dénes Egyetem                       | 3                |
-| https://neptun.kodolanyi.hu/hallgato_NG/        | 2024.2.21 | 2024-08-29T13:12:16 | Kodolányi János Egyetem                   | 3                |
+| https://neptun.kodolanyi.hu/hallgato_NG/        | 2024.2.22 | 2024-08-31T09:46:11 | Kodolányi János Egyetem                   | 3                |
 | https://neptun.lfze.hu/hallgato_angular/        | 2024.2.19 | 2024-08-28T09:04:24 | Liszt Ferenc Zeneművészeti Egyetem        | 3                |
 | https://neptun.or-zse.hu/hallgato/              | 2024.2.21 | 2024-08-29T13:12:16 | Országos Rabbiképző - Zsidó Egyetem       | 3                |
 | https://neptun.uni-milton.hu/hallgato/          | 2024.2.21 | 2024-08-29T13:12:16 | Milton Friedman Egyetem                   | 3                |
