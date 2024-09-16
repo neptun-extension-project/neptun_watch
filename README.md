@@ -21,7 +21,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.or-zse.hu/hallgato/              | 2024.2.30 | 2024-09-13T12:35:03 | Országos Rabbiképző - Zsidó Egyetem       | 3                |
 | https://neptun.uni-milton.hu/hallgato/          | 2024.2.29 | 2024-09-11T13:36:23 | Milton Friedman Egyetem                   | 3                |
 | https://neptun.unithe.hu/hallgatoing/           | 2024.2.29 | 2024-09-11T13:36:23 | Tokaj-Hegyalja Egyetem                    | 1                |
-| https://neptun.vhf.hu/hallgato_ng/              | 2024.2.29 | 2024-09-11T13:36:23 | Veszprémi Érseki Főiskola                 | 3                |
+| https://neptun.vhf.hu/hallgato_ng/              | 2024.2.30 | 2024-09-13T12:35:03 | Veszprémi Érseki Főiskola                 | 3                |
 | https://neptun.wsuf.hu/hallgatoing/             | 2024.2.27 | 2024-09-09T16:09:53 | Wekerle Sándor Üzleti Főiskola            | 3                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2024.2.30 | 2024-09-13T12:35:03 | Pázmány Péter Katolikus Egyetem           | 3                |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2024.2.29 | 2024-09-11T13:36:23 | Budapesti Corvinus Egyetem                | 3                |
