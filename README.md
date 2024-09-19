@@ -4,7 +4,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                             | Version   | Generation Date     | Organization Name                         | Captcha Required |
 |:----------------------------------------------|:--------|:------------------|:----------------------------------------|:---------------|
-| https://host.sdakft.hu/bhfnghw/                 | 2024.1.28 | 2024-07-17T16:12:12 | Bhaktivedanta Hittudományi Főiskola       | 3                |
+| https://host.sdakft.hu/bhfnghw/                 | 2024.2.31 | 2024-09-16T14:23:45 | Bhaktivedanta Hittudományi Főiskola       | 3                |
 | https://host.sdakft.hu/drhenghw/                | 2024.2.30 | 2024-09-13T12:35:03 | Debreceni Református Hittudományi Egyetem | 3                |
 | https://host.sdakft.hu/gfenghw/                 | 2024.2.31 | 2024-09-16T14:23:45 | Gál Ferenc Egyetem                        | 3                |
 | https://host.sdakft.hu/momenghw/                | 2024.2.30 | 2024-09-13T12:35:03 | Moholy-Nagy Művészeti Egyetem             | 3                |
