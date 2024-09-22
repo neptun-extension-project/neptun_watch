@@ -13,7 +13,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/tkbfnghw/                | 2024.2.34 | 2024-09-20T13:35:59 | A Tan Kapuja Buddhista Főiskola           | 3                |
 | https://nappw.dfad.duf.hu/hallgato_ng/          | 2024.2.29 | 2024-09-11T13:36:23 | Dunaújvárosi Egyetem                      | 3                |
 | https://neptun-hweb.sze.hu/hallgato_ng/         | 2024.2.28 | 2024-09-10T17:33:14 | Széchenyi István Egyetem                  | 3                |
-| https://neptun-web3.tr.pte.hu/hallgatoing/      | 2024.2.33 | 2024-09-19T13:52:28 | Pécsi Tudományegyetem                     | 3                |
+| https://neptun-web3.tr.pte.hu/hallgatoing/      | 2024.2.34 | 2024-09-20T13:35:59 | Pécsi Tudományegyetem                     | 3                |
 | https://neptun.ejf.hu/hallgato_ng/              | 2024.2.33 | 2024-09-19T13:52:28 | Eötvös József Főiskola                    | 3                |
 | https://neptun.gde.hu/hallgato/                 | 2024.2.31 | 2024-09-16T14:23:45 | Gábor Dénes Egyetem                       | 3                |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2024.2.34 | 2024-09-20T13:35:59 | Kodolányi János Egyetem                   | 3                |
