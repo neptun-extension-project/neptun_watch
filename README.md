@@ -14,7 +14,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://nappw.dfad.duf.hu/hallgato_ng/          | 2024.2.43 | 2024-10-17T13:41:57 | Dunaújvárosi Egyetem                      | 3                |
 | https://neptun-hweb.sze.hu/hallgato_ng/         | 2024.2.40 | 2024-10-09T13:35:15 | Széchenyi István Egyetem                  | 3                |
 | https://neptun-web3.tr.pte.hu/hallgatoing/      | 2024.2.43 | 2024-10-17T13:41:57 | Pécsi Tudományegyetem                     | 3                |
-| https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                       | N/A              |
+| https://neptun.edutus.hu/hallgato_ng/           | 2024.2.43 | 2024-10-17T13:41:57 | Edutus Egyetem                            | 3                |
 | https://neptun.ejf.hu/hallgato_ng/              | 2024.2.43 | 2024-10-17T13:41:57 | Eötvös József Főiskola                    | 3                |
 | https://neptun.gde.hu/hallgato/                 | 2024.2.42 | 2024-10-16T13:53:47 | Gábor Dénes Egyetem                       | 3                |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2024.2.43 | 2024-10-17T13:41:57 | Kodolányi János Egyetem                   | 3                |
