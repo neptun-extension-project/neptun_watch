@@ -24,9 +24,9 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.unithe.hu/hallgatoing/           | 2024.2.43 | 2024-10-17T13:41:57 | Tokaj-Hegyalja Egyetem                    | 1                |
 | https://neptun.univet.hu/ate_hw/                | 2024.2.43 | 2024-10-17T13:41:57 | Állatorvostudományi Egyetem               | 3                |
 | https://neptun.vhf.hu/hallgato_ng/              | 2024.2.43 | 2024-10-17T13:41:57 | Veszprémi Érseki Főiskola                 | 3                |
-| https://neptun.wsuf.hu/hallgatoing/             | 2024.2.41 | 2024-10-11T13:00:28 | Wekerle Sándor Üzleti Főiskola            | 3                |
+| https://neptun.wsuf.hu/hallgatoing/             | 2024.2.43 | 2024-10-17T13:41:57 | Wekerle Sándor Üzleti Főiskola            | 3                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2024.2.43 | 2024-10-17T13:41:57 | Pázmány Péter Katolikus Egyetem           | 3                |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2024.2.42 | 2024-10-16T13:53:47 | Budapesti Corvinus Egyetem                | 3                |
 | https://neptunweb.nye.hu/hallgatoing/           | 2024.2.41 | 2024-10-11T13:00:28 | Nyíregyházi Egyetem                       | 3                |
-| https://neptunweb2.metropolitan.hu/hallgato_ng/ | 2024.2.36 | 2024-09-26T14:14:28 | Budapesti Metropolitan Egyetem            | 3                |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2024.2.43 | 2024-10-17T13:41:57 | Debreceni Egyetem                         | 3                |
+| https://neptunweb2.metropolitan.hu/hallgato_ng/ | 2024.2.43 | 2024-10-17T13:41:57 | Budapesti Metropolitan Egyetem            | 3                |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | N/A       | N/A                 | N/A                                       | N/A              |
