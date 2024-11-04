@@ -18,7 +18,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.edutus.hu/hallgato_ng/           | 2024.2.45 | 2024-10-28T14:29:18 | Edutus Egyetem                            | 3                |
 | https://neptun.ejf.hu/hallgato_ng/              | 2024.2.44 | 2024-10-24T12:10:25 | Eötvös József Főiskola                    | 3                |
 | https://neptun.gde.hu/hallgato/                 | 2024.2.45 | 2024-10-28T14:29:18 | Gábor Dénes Egyetem                       | 3                |
-| https://neptun.kodolanyi.hu/hallgato_NG/        | 2024.2.45 | 2024-10-28T14:29:18 | Kodolányi János Egyetem                   | 3                |
+| https://neptun.kodolanyi.hu/hallgato_NG/        | N/A       | N/A                 | N/A                                       | N/A              |
 | https://neptun.lfze.hu/hallgato_angular/        | 2024.2.44 | 2024-10-24T12:10:25 | Liszt Ferenc Zeneművészeti Egyetem        | 3                |
 | https://neptun.or-zse.hu/hallgato/              | 2024.2.45 | 2024-10-28T14:29:18 | Országos Rabbiképző - Zsidó Egyetem       | 3                |
 | https://neptun.uni-milton.hu/hallgato/          | 2024.2.45 | 2024-10-28T14:29:18 | Milton Friedman Egyetem                   | 3                |
