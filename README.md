@@ -12,7 +12,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/szfenghw/                | 2024.2.50 | 2024-11-14T14:15:00 | Színház- és Filmművészeti Egyetem         | 3                |
 | https://host.sdakft.hu/tkbfnghw/                | 2024.2.50 | 2024-11-14T14:15:00 | A Tan Kapuja Buddhista Főiskola           | 3                |
 | https://nappw.dfad.duf.hu/hallgato_ng/          | 2024.2.48 | 2024-11-07T17:08:44 | Dunaújvárosi Egyetem                      | 3                |
-| https://neptun-hweb.sze.hu/hallgato_ng/         | 2024.2.44 | 2024-10-24T12:10:25 | Széchenyi István Egyetem                  | 3                |
+| https://neptun-hweb.sze.hu/hallgato_ng/         | 2024.2.50 | 2024-11-14T14:15:00 | Széchenyi István Egyetem                  | 3                |
 | https://neptun-web3.tr.pte.hu/hallgatoing/      | 2024.2.50 | 2024-11-14T14:15:00 | Pécsi Tudományegyetem                     | 3                |
 | https://neptun-ws01.uni-pannon.hu/newhallgatoi/ | 2024.2.50 | 2024-11-14T14:15:00 | Pannon Egyetem                            | 3                |
 | https://neptun.edutus.hu/hallgato_ng/           | 2024.2.50 | 2024-11-14T14:15:00 | Edutus Egyetem                            | 3                |
@@ -29,5 +29,5 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun3.ppke.hu/hallgato_uj/            | 2024.2.50 | 2024-11-14T14:15:00 | Pázmány Péter Katolikus Egyetem           | 3                |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2024.2.50 | 2024-11-14T14:15:00 | Budapesti Corvinus Egyetem                | 3                |
 | https://neptunweb.nye.hu/hallgatoing/           | 2024.2.44 | 2024-10-24T12:10:25 | Nyíregyházi Egyetem                       | 3                |
-| https://neptunweb2.metropolitan.hu/hallgato_ng/ | 2024.2.47 | 2024-11-05T14:26:09 | Budapesti Metropolitan Egyetem            | 3                |
+| https://neptunweb2.metropolitan.hu/hallgato_ng/ | 2024.2.50 | 2024-11-14T14:15:00 | Budapesti Metropolitan Egyetem            | 3                |
 | https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2024.2.50 | 2024-11-14T14:15:00 | Debreceni Egyetem                         | 3                |
