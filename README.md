@@ -5,7 +5,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | URL                                             | Version   | Generation Date     | Organization Name                         | Captcha Required |
 |:----------------------------------------------|:--------|:------------------|:----------------------------------------|:---------------|
 | https://host.sdakft.hu/bhfnghw/                 | N/A       | N/A                 | N/A                                       | N/A              |
-| https://host.sdakft.hu/drhenghw/                | 2024.2.50 | 2024-11-14T14:15:00 | Debreceni Református Hittudományi Egyetem | 3                |
+| https://host.sdakft.hu/drhenghw/                | 2024.2.51 | 2024-11-25T09:55:03 | Debreceni Református Hittudományi Egyetem | 3                |
 | https://host.sdakft.hu/gfenghw/                 | 2024.2.51 | 2024-11-25T09:55:03 | Gál Ferenc Egyetem                        | 3                |
 | https://host.sdakft.hu/momenghw/                | 2024.2.50 | 2024-11-14T14:15:00 | Moholy-Nagy Művészeti Egyetem             | 3                |
 | https://host.sdakft.hu/mtfhw/                   | 2024.2.50 | 2024-11-14T14:15:00 | Magyar Táncművészeti Egyetem              | 3                |
@@ -16,7 +16,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web3.tr.pte.hu/hallgatoing/      | 2024.2.50 | 2024-11-14T14:15:00 | Pécsi Tudományegyetem                     | 3                |
 | https://neptun-ws01.uni-pannon.hu/newhallgatoi/ | 2024.2.51 | 2024-11-25T09:55:03 | Pannon Egyetem                            | 3                |
 | https://neptun.edutus.hu/hallgato_ng/           | 2024.2.50 | 2024-11-14T14:15:00 | Edutus Egyetem                            | 3                |
-| https://neptun.ejf.hu/hallgato_ng/              | 2024.2.50 | 2024-11-14T14:15:00 | Eötvös József Főiskola                    | 3                |
+| https://neptun.ejf.hu/hallgato_ng/              | 2024.2.51 | 2024-11-25T09:55:03 | Eötvös József Főiskola                    | 3                |
 | https://neptun.gde.hu/hallgato/                 | 2024.2.51 | 2024-11-25T09:55:03 | Gábor Dénes Egyetem                       | 3                |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2024.2.51 | 2024-11-25T09:55:03 | Kodolányi János Egyetem                   | 1                |
 | https://neptun.lfze.hu/hallgato_angular/        | 2024.2.50 | 2024-11-14T14:15:00 | Liszt Ferenc Zeneművészeti Egyetem        | 3                |
@@ -30,4 +30,4 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2024.2.51 | 2024-11-25T09:55:03 | Budapesti Corvinus Egyetem                | 3                |
 | https://neptunweb.nye.hu/hallgatoing/           | 2024.2.44 | 2024-10-24T12:10:25 | Nyíregyházi Egyetem                       | 3                |
 | https://neptunweb2.metropolitan.hu/hallgato_ng/ | 2024.2.50 | 2024-11-14T14:15:00 | Budapesti Metropolitan Egyetem            | 3                |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2024.2.50 | 2024-11-14T14:15:00 | Debreceni Egyetem                         | 3                |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2024.2.51 | 2024-11-25T09:55:03 | Debreceni Egyetem                         | 3                |
