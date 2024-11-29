@@ -12,14 +12,14 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/szfenghw/                | 2024.2.50 | 2024-11-14T14:15:00 | Színház- és Filmművészeti Egyetem         | 3                |
 | https://host.sdakft.hu/tkbfnghw/                | 2024.2.50 | 2024-11-14T14:15:00 | A Tan Kapuja Buddhista Főiskola           | 3                |
 | https://nappw.dfad.duf.hu/hallgato_ng/          | 2024.2.51 | 2024-11-25T09:55:03 | Dunaújvárosi Egyetem                      | 3                |
-| https://neptun-hweb.sze.hu/hallgato_ng/         | 2024.2.50 | 2024-11-14T14:15:00 | Széchenyi István Egyetem                  | 3                |
+| https://neptun-hweb.sze.hu/hallgato_ng/         | 2024.2.51 | 2024-11-25T09:55:03 | Széchenyi István Egyetem                  | 3                |
 | https://neptun-web3.tr.pte.hu/hallgatoing/      | 2024.2.50 | 2024-11-14T14:15:00 | Pécsi Tudományegyetem                     | 3                |
-| https://neptun-ws01.uni-pannon.hu/newhallgatoi/ | 2024.2.51 | 2024-11-25T09:55:03 | Pannon Egyetem                            | 3                |
+| https://neptun-ws01.uni-pannon.hu/newhallgatoi/ | N/A       | N/A                 | N/A                                       | N/A              |
 | https://neptun.edutus.hu/hallgato_ng/           | 2024.2.50 | 2024-11-14T14:15:00 | Edutus Egyetem                            | 3                |
 | https://neptun.ejf.hu/hallgato_ng/              | 2024.2.51 | 2024-11-25T09:55:03 | Eötvös József Főiskola                    | 3                |
 | https://neptun.gde.hu/hallgato/                 | 2024.2.51 | 2024-11-25T09:55:03 | Gábor Dénes Egyetem                       | 3                |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2024.2.51 | 2024-11-25T09:55:03 | Kodolányi János Egyetem                   | 1                |
-| https://neptun.lfze.hu/hallgato_angular/        | 2024.2.50 | 2024-11-14T14:15:00 | Liszt Ferenc Zeneművészeti Egyetem        | 3                |
+| https://neptun.lfze.hu/hallgato_angular/        | 2024.2.51 | 2024-11-25T09:55:03 | Liszt Ferenc Zeneművészeti Egyetem        | 3                |
 | https://neptun.or-zse.hu/hallgato/              | 2024.2.50 | 2024-11-14T14:15:00 | Országos Rabbiképző - Zsidó Egyetem       | 3                |
 | https://neptun.uni-milton.hu/hallgato/          | 2024.2.50 | 2024-11-14T14:15:00 | Milton Friedman Egyetem                   | 3                |
 | https://neptun.unithe.hu/hallgatoing/           | 2024.2.51 | 2024-11-25T09:55:03 | Tokaj-Hegyalja Egyetem                    | 1                |
