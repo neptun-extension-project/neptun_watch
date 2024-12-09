@@ -22,11 +22,11 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.lfze.hu/hallgato_angular/        | 2024.2.51 | 2024-11-25T09:55:03 | Liszt Ferenc Zeneművészeti Egyetem            | 3                |
 | https://neptun.or-zse.hu/hallgato/              | 2024.2.54 | 2024-12-06T09:49:56 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
 | https://neptun.szte.hu/hallgato/                | 2024.2.55 | 2024-12-07T13:52:30 | Szegedi Tudományegyetem                       | 3                |
-| https://neptun.tf.hu/hallgato/                  | 2024.2.54 | 2024-12-06T09:49:56 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
+| https://neptun.tf.hu/hallgato/                  | 2024.2.55 | 2024-12-07T13:52:30 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
 | https://neptun.uni-milton.hu/hallgato/          | 2024.2.54 | 2024-12-06T09:49:56 | Milton Friedman Egyetem                       | 3                |
 | https://neptun.unithe.hu/hallgatoing/           | 2024.2.53 | 2024-12-04T09:47:09 | Tokaj-Hegyalja Egyetem                        | 1                |
 | https://neptun.univet.hu/ate_hw/                | 2024.2.54 | 2024-12-06T09:49:56 | Állatorvostudományi Egyetem                   | 3                |
-| https://neptun.vhf.hu/hallgato_ng/              | 2024.2.52 | 2024-11-29T08:56:55 | Veszprémi Érseki Főiskola                     | 3                |
+| https://neptun.vhf.hu/hallgato_ng/              | 2024.3.1  | 2024-12-05T15:01:54 | Veszprémi Érseki Főiskola                     | 3                |
 | https://neptun.wsuf.hu/hallgatoing/             | 2024.2.52 | 2024-11-29T08:56:55 | Wekerle Sándor Üzleti Főiskola                | 3                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2024.2.54 | 2024-12-06T09:49:56 | Pázmány Péter Katolikus Egyetem               | 3                |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2024.2.52 | 2024-11-29T08:56:55 | Budapesti Corvinus Egyetem                    | 3                |
