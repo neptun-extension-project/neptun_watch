@@ -18,6 +18,7 @@ https://neptun.or-zse.hu/hallgato/
 https://neptun.szte.hu/hallgato/
 https://neptun.tf.hu/hallgato/
 https://neptun.uni-milton.hu/hallgato/
+https://neptun.uni-obuda.hu/ujhallgato/
 https://neptun.unithe.hu/hallgatoing/
 https://neptun.univet.hu/ate_hw/
 https://neptun.vhf.hu/hallgato_ng/
@@ -28,4 +29,3 @@ https://neptunweb.nye.hu/hallgatoing/
 https://neptunweb.uni-nke.hu/hallgato_ng/
 https://neptunweb2.metropolitan.hu/hallgato_ng/
 https://www-h-ng.neptun.unideb.hu/hallgato_ng/
-https://neptun.uni-obuda.hu/ujhallgato/
