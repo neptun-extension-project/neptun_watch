@@ -1,4 +1,6 @@
 import requests
+import json
+
 
 def create_markdown_table(headers, data):
     # Calculate the maximum width for each column
@@ -20,9 +22,10 @@ def create_markdown_table(headers, data):
     return "\n".join([header, separator] + rows)
 
 with open('instances.txt') as file:
-    instances = [line.strip() for line in file.readlines()]
+    instances = [line.strip() for line in file.readlines()][:20]
 
 table_data = []
+neptuns_by_name = {}
 headers = ["URL", "Version", "Generation Date", "Organization Name", "Captcha Required"]
 
 for url in instances:
@@ -30,18 +33,26 @@ for url in instances:
         response = requests.get(url + 'api/General/GetEnvironmentData', timeout=60)
         response.raise_for_status()  # Raises an HTTPError for bad responses
         data = response.json()['data']
+        org_name = data['organizationData']['organizationName']
         table_data.append([
             url,
             data['version'],
             data['generationDate'],
-            data['organizationData']['organizationName'],
+            org_name,
             str(data['captchaRequired'])
         ])
+        properties = {"url": url, "server_name": data['serverName']}
+        if org_name not in neptuns_by_name:
+            neptuns_by_name[org_name] = [properties]
+        else:
+            neptuns_by_name[org_name].append(properties)
     except (requests.RequestException, KeyError, ValueError) as e:
         print(f"Error fetching data for {url}: {str(e)}")
         table_data.append([url, "N/A", "N/A", "N/A", "N/A"])
 
 markdown_table = create_markdown_table(headers, table_data)
+with open("server_data.json", "w") as f:
+    json.dump(neptuns_by_name, f)
 
 with open('README.md', 'w') as file:
     file.write("# Új Neptun szerverek adatai\n\n")
