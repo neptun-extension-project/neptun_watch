@@ -22,7 +22,7 @@ def create_markdown_table(headers, data):
     return "\n".join([header, separator] + rows)
 
 with open('instances.txt') as file:
-    instances = [line.strip() for line in file.readlines()][:20]
+    instances = [line.strip() for line in file.readlines()]
 
 table_data = []
 neptuns_by_name = {}
