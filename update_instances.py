@@ -52,7 +52,7 @@ for url in instances:
 
 markdown_table = create_markdown_table(headers, table_data)
 with open("server_data.json", "w") as f:
-    json.dump(neptuns_by_name, f)
+    json.dump(neptuns_by_name, f, indent=4)
 
 with open('README.md', 'w') as file:
     file.write("# Új Neptun szerverek adatai\n\n")
