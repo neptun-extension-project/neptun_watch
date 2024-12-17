@@ -7,8 +7,13 @@ https://host.sdakft.hu/szfenghw/
 https://host.sdakft.hu/tkbfnghw/
 https://nappw.dfad.duf.hu/hallgato_ng/
 https://neptun-hweb.sze.hu/hallgato_ng/
+https://neptun-web1.tr.pte.hu/hallgatoing/
+https://neptun-web2.tr.pte.hu/hallgatoing/
 https://neptun-web3.tr.pte.hu/hallgatoing/
+https://neptun-web4.tr.pte.hu/hallgatoing/
 https://neptun-ws01.uni-pannon.hu/hallgato/
+https://neptun-ws02.uni-pannon.hu/hallgato/
+https://neptun-ws03.uni-pannon.hu/hallgato/
 https://neptun.edutus.hu/hallgato_ng/
 https://neptun.ejf.hu/hallgato_ng/
 https://neptun.gde.hu/hallgato/
@@ -24,6 +29,7 @@ https://neptun.univet.hu/ate_hw/
 https://neptun.vhf.hu/hallgato_ng/
 https://neptun.wsuf.hu/hallgatoing/
 https://neptun3.ppke.hu/hallgato_uj/
+https://neptun2.ppke.hu/hallgato_uj/
 https://neptun3r.web.uni-corvinus.hu/Hallgatoi/
 https://neptunweb.nye.hu/hallgatoing/
 https://neptunweb.uni-nke.hu/hallgato_ng/
