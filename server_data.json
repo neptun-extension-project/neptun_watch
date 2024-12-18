@@ -133,6 +133,12 @@
             "server_name": "MTSE_HW_A"
         }
     ],
+    "Milton Friedman Egyetem": [
+        {
+            "url": "https://neptun.uni-milton.hu/hallgato/",
+            "server_name": "MILTON_HW"
+        }
+    ],
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
@@ -176,7 +182,7 @@
     "Budapesti Corvinus Egyetem": [
         {
             "url": "https://neptun3r.web.uni-corvinus.hu/Hallgatoi/",
-            "server_name": "BCE_HA2"
+            "server_name": "BCE_HA1"
         }
     ],
     "Eszterh\u00e1zy K\u00e1roly Katolikus Egyetem": [
@@ -194,7 +200,7 @@
     "Nemzeti K\u00f6zszolg\u00e1lati Egyetem": [
         {
             "url": "https://neptunweb.uni-nke.hu/hallgato_ng/",
-            "server_name": "NKE_WEB2_HWNG"
+            "server_name": "NKE_WEB1_NG_HW"
         }
     ],
     "Budapesti Metropolitan Egyetem": [
@@ -210,7 +216,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_25"
+            "server_name": "DE_HWEB_22"
         }
     ]
 }
