@@ -16,10 +16,10 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://nappw.dfad.duf.hu/hallgato_ng/             | 2024.2.55 | 2024-12-07T13:52:30 | Dunaújvárosi Egyetem                          | 3                |
 | https://neptun-hweb.sze.hu/hallgato_ng/            | 2024.2.57 | 2024-12-11T15:23:02 | Széchenyi István Egyetem                      | 3                |
-| https://neptun-web1.tr.pte.hu/hallgatoing/         | 2024.3.4  | 2024-12-19T10:13:02 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.4  | 2024-12-19T10:13:02 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.4  | 2024-12-19T10:13:02 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.4  | 2024-12-19T10:13:02 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web1.tr.pte.hu/hallgatoing/         | 2024.3.5  | 2024-12-20T15:56:43 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.5  | 2024-12-20T15:56:43 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.5  | 2024-12-20T15:56:43 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.5  | 2024-12-20T15:56:43 | Pécsi Tudományegyetem                         | 3                |
 | https://neptun-ws01.uni-pannon.hu/hallgato/        | 2024.2.57 | 2024-12-11T15:23:02 | Pannon Egyetem                                | 3                |
 | https://neptun-ws02.uni-pannon.hu/hallgato/        | 2024.2.57 | 2024-12-11T15:23:02 | Pannon Egyetem                                | 3                |
 | https://neptun-ws03.uni-pannon.hu/hallgato/        | 2024.2.57 | 2024-12-11T15:23:02 | Pannon Egyetem                                | 3                |
