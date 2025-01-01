@@ -39,7 +39,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.wsuf.hu/hallgatoing/                | 2024.2.58 | 2024-12-18T11:10:49 | Wekerle Sándor Üzleti Főiskola                | 3                |
 | https://neptun2.ppke.hu/hallgato_uj/               | 2024.2.57 | 2024-12-11T15:23:02 | Pázmány Péter Katolikus Egyetem               | 3                |
 | https://neptun3.ppke.hu/hallgato_uj/               | 2024.2.57 | 2024-12-11T15:23:02 | Pázmány Péter Katolikus Egyetem               | 3                |
-| https://neptun3r.web.uni-corvinus.hu/Hallgatoi/    | 2024.2.55 | 2024-12-07T13:52:30 | Budapesti Corvinus Egyetem                    | 3                |
+| https://neptun3r.web.uni-corvinus.hu/Hallgatoi/    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunh.uni-eszterhazy.hu/hallgatoangular/ | 2024.2.51 | 2024-11-25T09:55:03 | Eszterházy Károly Katolikus Egyetem           | 3                |
 | https://neptunweb.nye.hu/hallgatoing/              | 2024.2.52 | 2024-11-29T08:56:55 | Nyíregyházi Egyetem                           | 3                |
 | https://neptunweb.uni-nke.hu/hallgato_ng/          | 2024.2.58 | 2024-12-18T11:10:49 | Nemzeti Közszolgálati Egyetem                 | 3                |
