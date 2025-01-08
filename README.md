@@ -6,7 +6,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 |:-------------------------------------------------|:--------|:------------------|:--------------------------------------------|:---------------|
 | https://host.sdakft.hu/bhfnghw/                    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/bjhfhw/                     | 2024.3.5  | 2024-12-20T15:56:43 | Brenner János Hittudományi Főiskola           | 3                |
-| https://host.sdakft.hu/drhehw/                     | 2024.3.5  | 2024-12-20T15:56:43 | Debreceni Református Hittudományi Egyetem     | 3                |
+| https://host.sdakft.hu/drhehw/                     | 2024.3.6  | 2025-01-06T13:51:05 | Debreceni Református Hittudományi Egyetem     | 3                |
 | https://host.sdakft.hu/drhenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/gfenghw/                    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/momenghw/                   | 2024.2.58 | 2024-12-18T11:10:49 | Moholy-Nagy Művészeti Egyetem                 | 3                |
