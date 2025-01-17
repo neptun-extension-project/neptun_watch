@@ -20,9 +20,9 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.9  | 2025-01-14T13:33:47 | Pécsi Tudományegyetem                         | 3                |
 | https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.9  | 2025-01-14T13:33:47 | Pécsi Tudományegyetem                         | 3                |
 | https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.9  | 2025-01-14T13:33:47 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-ws01.uni-pannon.hu/hallgato/        | 2024.3.9  | 2025-01-14T13:33:47 | Pannon Egyetem                                | 3                |
-| https://neptun-ws02.uni-pannon.hu/hallgato/        | 2024.3.9  | 2025-01-14T13:33:47 | Pannon Egyetem                                | 3                |
-| https://neptun-ws03.uni-pannon.hu/hallgato/        | 2024.3.9  | 2025-01-14T13:33:47 | Pannon Egyetem                                | 3                |
+| https://neptun-ws01.uni-pannon.hu/hallgato/        | 2024.3.10 | 2025-01-16T13:35:52 | Pannon Egyetem                                | 3                |
+| https://neptun-ws02.uni-pannon.hu/hallgato/        | 2024.3.10 | 2025-01-16T13:35:52 | Pannon Egyetem                                | 3                |
+| https://neptun-ws03.uni-pannon.hu/hallgato/        | 2024.3.10 | 2025-01-16T13:35:52 | Pannon Egyetem                                | 3                |
 | https://neptun.edutus.hu/hallgato_ng/              | 2024.2.59 | 2025-01-09T09:39:10 | Edutus Egyetem                                | 3                |
 | https://neptun.ejf.hu/hallgato_ng/                 | 2024.2.60 | 2025-01-13T08:14:13 | Eötvös József Főiskola                        | 3                |
 | https://neptun.gde.hu/hallgato/                    | 2024.3.9  | 2025-01-14T13:33:47 | Gábor Dénes Egyetem                           | 3                |
@@ -31,7 +31,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.or-zse.hu/hallgato/                 | 2024.2.59 | 2025-01-09T09:39:10 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
 | https://neptun.szte.hu/hallgato/                   | 2024.2.60 | 2025-01-13T08:14:13 | Szegedi Tudományegyetem                       | 3                |
 | https://neptun.tf.hu/hallgato/                     | 2024.2.60 | 2025-01-13T08:14:13 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
-| https://neptun.uni-milton.hu/hallgato/             | N/A       | N/A                 | N/A                                           | N/A              |
+| https://neptun.uni-milton.hu/hallgato/             | 2024.2.60 | 2025-01-13T08:14:13 | Milton Friedman Egyetem                       | 3                |
 | https://neptun.uni-obuda.hu/ujhallgato/            | 2024.2.58 | 2024-12-18T11:10:49 | Óbudai Egyetem                                | 3                |
 | https://neptun.unithe.hu/hallgatoing/              | 2024.2.60 | 2025-01-13T08:14:13 | Tokaj-Hegyalja Egyetem                        | 1                |
 | https://neptun.univet.hu/ate_hw/                   | 2024.2.59 | 2025-01-09T09:39:10 | Állatorvostudományi Egyetem                   | 3                |
@@ -42,7 +42,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/    | 2024.2.59 | 2025-01-09T09:39:10 | Budapesti Corvinus Egyetem                    | 3                |
 | https://neptunh.uni-eszterhazy.hu/hallgatoangular/ | 2024.2.51 | 2024-11-25T09:55:03 | Eszterházy Károly Katolikus Egyetem           | 3                |
 | https://neptunweb.nye.hu/hallgatoing/              | 2024.2.52 | 2024-11-29T08:56:55 | Nyíregyházi Egyetem                           | 3                |
-| https://neptunweb.uni-nke.hu/hallgato_ng/          | 2024.3.9  | 2025-01-14T13:33:47 | Nemzeti Közszolgálati Egyetem                 | 3                |
+| https://neptunweb.uni-nke.hu/hallgato_ng/          | 2024.3.10 | 2025-01-16T13:35:52 | Nemzeti Közszolgálati Egyetem                 | 3                |
 | https://neptunweb1.metropolitan.hu/hallgato_ng/    | 2024.2.59 | 2025-01-09T09:39:10 | Budapesti Metropolitan Egyetem                | 3                |
 | https://neptunweb2.metropolitan.hu/hallgato_ng/    | 2024.2.59 | 2025-01-09T09:39:10 | Budapesti Metropolitan Egyetem                | 3                |
 | https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.60 | 2025-01-13T08:14:13 | Debreceni Egyetem                             | 3                |
