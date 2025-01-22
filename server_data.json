@@ -44,7 +44,7 @@
     "Sz\u00e9chenyi Istv\u00e1n Egyetem": [
         {
             "url": "https://neptun-hweb.sze.hu/hallgato_ng/",
-            "server_name": "SZE_W3_HW_NG"
+            "server_name": "SZE_W1_HW_NG"
         }
     ],
     "P\u00e9csi Tudom\u00e1nyegyetem": [
@@ -66,6 +66,10 @@
         }
     ],
     "Pannon Egyetem": [
+        {
+            "url": "https://neptun-ws01.uni-pannon.hu/hallgato/",
+            "server_name": "PE_HW_WS01"
+        },
         {
             "url": "https://neptun-ws02.uni-pannon.hu/hallgato/",
             "server_name": "PE_HW_WS02"
@@ -111,6 +115,12 @@
             "server_name": "OR-ZSE NGHW"
         }
     ],
+    "Szegedi Tudom\u00e1nyegyetem": [
+        {
+            "url": "https://neptun.szte.hu/hallgato/",
+            "server_name": "NTWEB02_HW"
+        }
+    ],
     "Magyar Testnevel\u00e9si \u00e9s Sporttudom\u00e1nyi Egyetem": [
         {
             "url": "https://neptun.tf.hu/hallgato/",
@@ -126,7 +136,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_116"
+            "server_name": "ANGULAR_PROD_WEB_13"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -147,12 +157,6 @@
             "server_name": "V\u00c9F_HW_NG"
         }
     ],
-    "Wekerle S\u00e1ndor \u00dczleti F\u0151iskola": [
-        {
-            "url": "https://neptun.wsuf.hu/hallgatoing/",
-            "server_name": "WSUF_NGHW"
-        }
-    ],
     "P\u00e1zm\u00e1ny P\u00e9ter Katolikus Egyetem": [
         {
             "url": "https://neptun2.ppke.hu/hallgato_uj/",
@@ -166,7 +170,7 @@
     "Budapesti Corvinus Egyetem": [
         {
             "url": "https://neptun3r.web.uni-corvinus.hu/Hallgatoi/",
-            "server_name": "BCE_HA3"
+            "server_name": "BCE_HA2"
         }
     ],
     "Eszterh\u00e1zy K\u00e1roly Katolikus Egyetem": [
@@ -200,7 +204,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_23"
+            "server_name": "DE_HWEB_21"
         }
     ]
 }
