@@ -124,7 +124,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_13"
+            "server_name": "ANGULAR_PROD_WEB_116"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -158,7 +158,7 @@
     "Budapesti Corvinus Egyetem": [
         {
             "url": "https://neptun3r.web.uni-corvinus.hu/Hallgatoi/",
-            "server_name": "BCE_HA1"
+            "server_name": "BCE_HA3"
         }
     ],
     "Eszterh\u00e1zy K\u00e1roly Katolikus Egyetem": [
@@ -176,7 +176,7 @@
     "Nemzeti K\u00f6zszolg\u00e1lati Egyetem": [
         {
             "url": "https://neptunweb.uni-nke.hu/hallgato_ng/",
-            "server_name": "NKE_WEB2_HWNG"
+            "server_name": "NKE_WEB1_NG_HW"
         }
     ],
     "Budapesti Metropolitan Egyetem": [
@@ -192,7 +192,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_31"
+            "server_name": "DE_HWEB_22"
         }
     ]
 }
