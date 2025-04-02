@@ -38,7 +38,7 @@
     "Sz\u00e9chenyi Istv\u00e1n Egyetem": [
         {
             "url": "https://neptun-hweb.sze.hu/hallgato_ng/",
-            "server_name": "SZE_W2_HW_NG"
+            "server_name": "SZE_W1_HW_NG"
         }
     ],
     "P\u00e9csi Tudom\u00e1nyegyetem": [
@@ -79,6 +79,12 @@
             "server_name": "EJF_NG_HW"
         }
     ],
+    "G\u00e1bor D\u00e9nes Egyetem": [
+        {
+            "url": "https://neptun.gde.hu/hallgato/",
+            "server_name": "GDE_HW_NG"
+        }
+    ],
     "Kodol\u00e1nyi J\u00e1nos Egyetem": [
         {
             "url": "https://neptun.kodolanyi.hu/hallgato_NG/",
@@ -100,7 +106,7 @@
     "Szegedi Tudom\u00e1nyegyetem": [
         {
             "url": "https://neptun.szte.hu/hallgato/",
-            "server_name": "NTWEB04_HW"
+            "server_name": "NTWEB02_HW"
         }
     ],
     "Magyar Testnevel\u00e9si \u00e9s Sporttudom\u00e1nyi Egyetem": [
@@ -152,7 +158,7 @@
     "Budapesti Corvinus Egyetem": [
         {
             "url": "https://neptun3r.web.uni-corvinus.hu/Hallgatoi/",
-            "server_name": "BCE_HA1"
+            "server_name": "BCE_HA2"
         }
     ],
     "Eszterh\u00e1zy K\u00e1roly Katolikus Egyetem": [
