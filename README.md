@@ -24,13 +24,13 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-ws02.uni-pannon.hu/hallgato/        | 2024.3.32 | 2025-03-28T13:03:47 | Pannon Egyetem                                | 3                |
 | https://neptun-ws03.uni-pannon.hu/hallgato/        | 2024.3.32 | 2025-03-28T13:03:47 | Pannon Egyetem                                | 3                |
 | https://neptun.edutus.hu/hallgato_ng/              | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptun.ejf.hu/hallgato_ng/                 | 2024.3.31 | 2025-03-21T14:00:12 | Eötvös József Főiskola                        | 3                |
+| https://neptun.ejf.hu/hallgato_ng/                 | 2024.3.32 | 2025-03-28T13:03:47 | Eötvös József Főiskola                        | 3                |
 | https://neptun.gde.hu/hallgato/                    | 2024.3.32 | 2025-03-28T13:03:47 | Gábor Dénes Egyetem                           | 3                |
 | https://neptun.kodolanyi.hu/hallgato_NG/           | 2024.3.32 | 2025-03-28T13:03:47 | Kodolányi János Egyetem                       | 1                |
 | https://neptun.lfze.hu/hallgato_angular/           | 2024.2.70 | 2025-03-17T15:05:10 | Liszt Ferenc Zeneművészeti Egyetem            | 3                |
 | https://neptun.or-zse.hu/hallgato/                 | 2024.3.31 | 2025-03-21T14:00:12 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
 | https://neptun.szte.hu/hallgato/                   | 2024.3.32 | 2025-03-28T13:03:47 | Szegedi Tudományegyetem                       | 3                |
-| https://neptun.tf.hu/hallgato/                     | 2024.2.69 | 2025-03-10T13:06:48 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
+| https://neptun.tf.hu/hallgato/                     | 2024.2.72 | 2025-03-31T14:38:56 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
 | https://neptun.uni-milton.hu/hallgato/             | 2024.3.32 | 2025-03-28T13:03:47 | Milton Friedman Egyetem                       | 3                |
 | https://neptun.uni-obuda.hu/ujhallgato/            | 2024.2.71 | 2025-03-26T10:54:36 | Óbudai Egyetem                                | 3                |
 | https://neptun.unithe.hu/hallgatoing/              | 2024.2.72 | 2025-03-31T14:38:56 | Tokaj-Hegyalja Egyetem                        | 1                |
