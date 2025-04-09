@@ -20,29 +20,29 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.33 | 2025-04-04T14:10:16 | Pécsi Tudományegyetem                         | 3                |
 | https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.33 | 2025-04-04T14:10:16 | Pécsi Tudományegyetem                         | 3                |
 | https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.33 | 2025-04-04T14:10:16 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-ws01.uni-pannon.hu/hallgato/        | 2024.3.33 | 2025-04-04T14:10:16 | Pannon Egyetem                                | 3                |
-| https://neptun-ws02.uni-pannon.hu/hallgato/        | 2024.3.33 | 2025-04-04T14:10:16 | Pannon Egyetem                                | 3                |
-| https://neptun-ws03.uni-pannon.hu/hallgato/        | 2024.3.33 | 2025-04-04T14:10:16 | Pannon Egyetem                                | 3                |
+| https://neptun-ws01.uni-pannon.hu/hallgato/        | 2024.3.34 | 2025-04-08T13:07:13 | Pannon Egyetem                                | 3                |
+| https://neptun-ws02.uni-pannon.hu/hallgato/        | 2024.3.34 | 2025-04-08T13:07:13 | Pannon Egyetem                                | 3                |
+| https://neptun-ws03.uni-pannon.hu/hallgato/        | 2024.3.34 | 2025-04-08T13:07:13 | Pannon Egyetem                                | 3                |
 | https://neptun.edutus.hu/hallgato_ng/              | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.ejf.hu/hallgato_ng/                 | 2024.3.33 | 2025-04-04T14:10:16 | Eötvös József Főiskola                        | 3                |
-| https://neptun.gde.hu/hallgato/                    | 2024.3.32 | 2025-03-28T13:03:47 | Gábor Dénes Egyetem                           | 3                |
-| https://neptun.kodolanyi.hu/hallgato_NG/           | 2024.3.33 | 2025-04-04T14:10:16 | Kodolányi János Egyetem                       | 1                |
+| https://neptun.gde.hu/hallgato/                    | 2024.3.33 | 2025-04-04T14:10:16 | Gábor Dénes Egyetem                           | 3                |
+| https://neptun.kodolanyi.hu/hallgato_NG/           | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.lfze.hu/hallgato_angular/           | 2024.2.70 | 2025-03-17T15:05:10 | Liszt Ferenc Zeneművészeti Egyetem            | 3                |
 | https://neptun.or-zse.hu/hallgato/                 | 2024.3.33 | 2025-04-04T14:10:16 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
-| https://neptun.szte.hu/hallgato/                   | 2024.3.33 | 2025-04-04T14:10:16 | Szegedi Tudományegyetem                       | 3                |
+| https://neptun.szte.hu/hallgato/                   | 2024.3.34 | 2025-04-08T13:07:13 | Szegedi Tudományegyetem                       | 3                |
 | https://neptun.tf.hu/hallgato/                     | 2024.3.33 | 2025-04-04T14:10:16 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
 | https://neptun.uni-milton.hu/hallgato/             | 2024.3.32 | 2025-03-28T13:03:47 | Milton Friedman Egyetem                       | 3                |
 | https://neptun.uni-obuda.hu/ujhallgato/            | 2024.2.71 | 2025-03-26T10:54:36 | Óbudai Egyetem                                | 3                |
-| https://neptun.unithe.hu/hallgatoing/              | 2024.2.72 | 2025-03-31T14:38:56 | Tokaj-Hegyalja Egyetem                        | 1                |
+| https://neptun.unithe.hu/hallgatoing/              | 2024.2.73 | 2025-04-07T08:36:28 | Tokaj-Hegyalja Egyetem                        | 1                |
 | https://neptun.univet.hu/ate_hw/                   | 2024.3.33 | 2025-04-04T14:10:16 | Állatorvostudományi Egyetem                   | 3                |
-| https://neptun.vhf.hu/hallgato_ng/                 | 2024.3.33 | 2025-04-04T14:10:16 | Veszprémi Érseki Főiskola                     | 3                |
+| https://neptun.vhf.hu/hallgato_ng/                 | 2024.3.34 | 2025-04-08T13:07:13 | Veszprémi Érseki Főiskola                     | 3                |
 | https://neptun.wsuf.hu/hallgatoing/                | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun2.ppke.hu/hallgato_uj/               | 2024.3.33 | 2025-04-04T14:10:16 | Pázmány Péter Katolikus Egyetem               | 3                |
 | https://neptun3.ppke.hu/hallgato_uj/               | 2024.3.33 | 2025-04-04T14:10:16 | Pázmány Péter Katolikus Egyetem               | 3                |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/    | 2024.3.32 | 2025-03-28T13:03:47 | Budapesti Corvinus Egyetem                    | 3                |
 | https://neptunh.uni-eszterhazy.hu/hallgatoangular/ | 2024.3.30 | 2025-03-17T13:25:05 | Eszterházy Károly Katolikus Egyetem           | 3                |
 | https://neptunweb.nye.hu/hallgatoing/              | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptunweb.uni-nke.hu/hallgato_ng/          | 2024.3.33 | 2025-04-04T14:10:16 | Nemzeti Közszolgálati Egyetem                 | 3                |
+| https://neptunweb.uni-nke.hu/hallgato_ng/          | 2024.3.34 | 2025-04-08T13:07:13 | Nemzeti Közszolgálati Egyetem                 | 3                |
 | https://neptunweb1.metropolitan.hu/hallgato_ng/    | 2024.2.72 | 2025-03-31T14:38:56 | Budapesti Metropolitan Egyetem                | 3                |
 | https://neptunweb2.metropolitan.hu/hallgato_ng/    | 2024.2.72 | 2025-03-31T14:38:56 | Budapesti Metropolitan Egyetem                | 3                |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.73 | 2025-04-07T08:36:28 | Debreceni Egyetem                             | 3                |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.74 | 2025-04-08T12:45:52 | Debreceni Egyetem                             | 3                |
