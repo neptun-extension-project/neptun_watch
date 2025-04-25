@@ -5,7 +5,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | URL                                                | Version   | Generation Date     | Organization Name                             | Captcha Required |
 |:-------------------------------------------------|:--------|:------------------|:--------------------------------------------|:---------------|
 | https://host.sdakft.hu/bhfnghw/                    | N/A       | N/A                 | N/A                                           | N/A              |
-| https://host.sdakft.hu/bjhfhw/                     | 2024.3.35 | 2025-04-14T07:50:09 | Brenner János Hittudományi Főiskola           | 3                |
+| https://host.sdakft.hu/bjhfhw/                     | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/drhehw/                     | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/drhenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/gfenghw/                    | N/A       | N/A                 | N/A                                           | N/A              |
@@ -26,7 +26,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.edutus.hu/hallgato_ng/              | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.ejf.hu/hallgato_ng/                 | 2024.3.35 | 2025-04-14T07:50:09 | Eötvös József Főiskola                        | 3                |
 | https://neptun.gde.hu/hallgato/                    | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptun.kodolanyi.hu/hallgato_NG/           | N/A       | N/A                 | N/A                                           | N/A              |
+| https://neptun.kodolanyi.hu/hallgato_NG/           | 2024.3.35 | 2025-04-14T07:50:09 | Kodolányi János Egyetem                       | 1                |
 | https://neptun.lfze.hu/hallgato_angular/           | 2024.2.74 | 2025-04-08T12:45:52 | Liszt Ferenc Zeneművészeti Egyetem            | 3                |
 | https://neptun.or-zse.hu/hallgato/                 | 2024.3.35 | 2025-04-14T07:50:09 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
 | https://neptun.szte.hu/hallgato/                   | 2024.3.35 | 2025-04-14T07:50:09 | Szegedi Tudományegyetem                       | 3                |
