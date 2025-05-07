@@ -41,20 +41,6 @@
             "server_name": "PTE_HW_NG4"
         }
     ],
-    "Pannon Egyetem": [
-        {
-            "url": "https://neptun-ws01.uni-pannon.hu/hallgato/",
-            "server_name": "PE_HW_WS01"
-        },
-        {
-            "url": "https://neptun-ws02.uni-pannon.hu/hallgato/",
-            "server_name": "PE_HW_WS02"
-        },
-        {
-            "url": "https://neptun-ws03.uni-pannon.hu/hallgato/",
-            "server_name": "PE_HW_WS03"
-        }
-    ],
     "E\u00f6tv\u00f6s J\u00f3zsef F\u0151iskola": [
         {
             "url": "https://neptun.ejf.hu/hallgato_ng/",
@@ -82,7 +68,7 @@
     "Szegedi Tudom\u00e1nyegyetem": [
         {
             "url": "https://neptun.szte.hu/hallgato/",
-            "server_name": "NTWEB02_HW"
+            "server_name": "NTWEB01_HW"
         }
     ],
     "Magyar Testnevel\u00e9si \u00e9s Sporttudom\u00e1nyi Egyetem": [
@@ -100,7 +86,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_116"
+            "server_name": "ANGULAR_PROD_WEB_13"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -140,7 +126,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_21"
+            "server_name": "DE_HWEB_23"
         }
     ]
 }
