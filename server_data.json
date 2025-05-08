@@ -68,7 +68,7 @@
     "Szegedi Tudom\u00e1nyegyetem": [
         {
             "url": "https://neptun.szte.hu/hallgato/",
-            "server_name": "NTWEB01_HW"
+            "server_name": "NTWEB03_HW"
         }
     ],
     "Magyar Testnevel\u00e9si \u00e9s Sporttudom\u00e1nyi Egyetem": [
@@ -86,7 +86,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_13"
+            "server_name": "ANGULAR_PROD_WEB_116"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -126,7 +126,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_23"
+            "server_name": "DE_HWEB_24"
         }
     ]
 }
