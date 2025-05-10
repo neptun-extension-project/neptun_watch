@@ -1,10 +1,4 @@
 {
-    "Moholy-Nagy M\u0171v\u00e9szeti Egyetem": [
-        {
-            "url": "https://host.sdakft.hu/momenghw/",
-            "server_name": "MOME_NGHW"
-        }
-    ],
     "Magyar T\u00e1ncm\u0171v\u00e9szeti Egyetem": [
         {
             "url": "https://host.sdakft.hu/mtfhw/",
@@ -110,7 +104,7 @@
     "Nemzeti K\u00f6zszolg\u00e1lati Egyetem": [
         {
             "url": "https://neptunweb.uni-nke.hu/hallgato_ng/",
-            "server_name": "NKE_WEB1_NG_HW"
+            "server_name": "NKE_WEB2_HWNG"
         }
     ],
     "Budapesti Metropolitan Egyetem": [
@@ -126,7 +120,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_25"
+            "server_name": "DE_HWEB_22"
         }
     ]
 }

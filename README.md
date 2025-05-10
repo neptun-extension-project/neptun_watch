@@ -9,8 +9,8 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/drhehw/                     | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/drhenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/gfenghw/                    | N/A       | N/A                 | N/A                                           | N/A              |
-| https://host.sdakft.hu/momenghw/                   | 2024.2.74 | 2025-04-08T12:45:52 | Moholy-Nagy Művészeti Egyetem                 | 3                |
-| https://host.sdakft.hu/mtfhw/                      | 2024.2.74 | 2025-04-08T12:45:52 | Magyar Táncművészeti Egyetem                  | 3                |
+| https://host.sdakft.hu/momenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
+| https://host.sdakft.hu/mtfhw/                      | 2024.2.75 | 2025-05-08T12:16:34 | Magyar Táncművészeti Egyetem                  | 3                |
 | https://host.sdakft.hu/szfenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/tkbfhw/                     | 2024.3.35 | 2025-04-14T07:50:09 | A Tan Kapuja Buddhista Főiskola               | 3                |
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
