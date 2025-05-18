@@ -42,7 +42,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunh.uni-eszterhazy.hu/hallgatoangular/ | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb.nye.hu/hallgatoing/              | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptunweb.uni-nke.hu/hallgato_ng/          | 2024.3.36 | 2025-05-13T14:28:36 | Nemzeti Közszolgálati Egyetem                 | 3                |
+| https://neptunweb.uni-nke.hu/hallgato_ng/          | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb1.metropolitan.hu/hallgato_ng/    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb2.metropolitan.hu/hallgato_ng/    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.76 | 2025-05-13T14:28:01 | Debreceni Egyetem                             | 3                |
