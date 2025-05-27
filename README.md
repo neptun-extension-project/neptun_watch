@@ -14,7 +14,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/szfenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/tkbfhw/                     | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
-| https://nappw.dfad.duf.hu/hallgato_ng/             | 2024.3.34 | 2025-04-08T13:07:13 | Dunaújvárosi Egyetem                          | 3                |
+| https://nappw.dfad.duf.hu/hallgato_ng/             | 2024.3.36 | 2025-05-13T14:28:36 | Dunaújvárosi Egyetem                          | 3                |
 | https://neptun-hweb.sze.hu/hallgato_ng/            | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-web1.tr.pte.hu/hallgatoing/         | 2024.3.36 | 2025-05-13T14:28:36 | Pécsi Tudományegyetem                         | 3                |
 | https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.36 | 2025-05-13T14:28:36 | Pécsi Tudományegyetem                         | 3                |
@@ -45,4 +45,4 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptunweb.uni-nke.hu/hallgato_ng/          | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb1.metropolitan.hu/hallgato_ng/    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb2.metropolitan.hu/hallgato_ng/    | N/A       | N/A                 | N/A                                           | N/A              |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.76 | 2025-05-13T14:28:01 | Debreceni Egyetem                             | 3                |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.62 | 2025-02-05T11:54:53 | Debreceni Egyetem                             | 3                |
