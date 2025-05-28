@@ -45,4 +45,4 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptunweb.uni-nke.hu/hallgato_ng/          | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb1.metropolitan.hu/hallgato_ng/    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb2.metropolitan.hu/hallgato_ng/    | N/A       | N/A                 | N/A                                           | N/A              |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.62 | 2025-02-05T11:54:53 | Debreceni Egyetem                             | 3                |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.76 | 2025-05-13T14:28:01 | Debreceni Egyetem                             | 3                |
