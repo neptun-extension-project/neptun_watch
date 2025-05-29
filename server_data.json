@@ -41,12 +41,6 @@
             "server_name": "KJF_NG"
         }
     ],
-    "Liszt Ferenc Zenem\u0171v\u00e9szeti Egyetem": [
-        {
-            "url": "https://neptun.lfze.hu/hallgato_angular/",
-            "server_name": "LFZE_HW"
-        }
-    ],
     "Orsz\u00e1gos Rabbik\u00e9pz\u0151 - Zsid\u00f3 Egyetem": [
         {
             "url": "https://neptun.or-zse.hu/hallgato/",
@@ -62,7 +56,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_12"
+            "server_name": "ANGULAR_PROD_WEB_116"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
