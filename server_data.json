@@ -35,12 +35,6 @@
             "server_name": "EJF_NG_HW"
         }
     ],
-    "Kodol\u00e1nyi J\u00e1nos Egyetem": [
-        {
-            "url": "https://neptun.kodolanyi.hu/hallgato_NG/",
-            "server_name": "KJF_NG"
-        }
-    ],
     "Orsz\u00e1gos Rabbik\u00e9pz\u0151 - Zsid\u00f3 Egyetem": [
         {
             "url": "https://neptun.or-zse.hu/hallgato/",
@@ -56,7 +50,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_13"
+            "server_name": "ANGULAR_PROD_WEB_116"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -74,7 +68,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_23"
+            "server_name": "DE_HWEB_22"
         }
     ]
 }
