@@ -14,12 +14,12 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/szfenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/tkbfhw/                     | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
-| https://nappw.dfad.duf.hu/hallgato_ng/             | 2024.3.36 | 2025-05-13T14:28:36 | Dunaújvárosi Egyetem                          | 3                |
+| https://nappw.dfad.duf.hu/hallgato_ng/             | 2024.3.37 | 2025-06-02T11:55:04 | Dunaújvárosi Egyetem                          | 3                |
 | https://neptun-hweb.sze.hu/hallgato_ng/            | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptun-web1.tr.pte.hu/hallgatoing/         | 2024.3.36 | 2025-05-13T14:28:36 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.36 | 2025-05-13T14:28:36 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.36 | 2025-05-13T14:28:36 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.36 | 2025-05-13T14:28:36 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web1.tr.pte.hu/hallgatoing/         | 2024.3.37 | 2025-06-02T11:55:04 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.37 | 2025-06-02T11:55:04 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.37 | 2025-06-02T11:55:04 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.37 | 2025-06-02T11:55:04 | Pécsi Tudományegyetem                         | 3                |
 | https://neptun-ws01.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-ws02.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-ws03.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
@@ -30,7 +30,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.lfze.hu/hallgato_angular/           | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.or-zse.hu/hallgato/                 | 2024.3.36 | 2025-05-13T14:28:36 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
 | https://neptun.szte.hu/hallgato/                   | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptun.tf.hu/hallgato/                     | 2024.3.36 | 2025-05-13T14:28:36 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
+| https://neptun.tf.hu/hallgato/                     | 2024.3.37 | 2025-06-02T11:55:04 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
 | https://neptun.uni-milton.hu/hallgato/             | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.uni-obuda.hu/ujhallgato/            | 2024.2.74 | 2025-04-08T12:45:52 | Óbudai Egyetem                                | 3                |
 | https://neptun.unithe.hu/hallgatoing/              | 2024.2.76 | 2025-05-13T14:28:01 | Tokaj-Hegyalja Egyetem                        | 1                |
