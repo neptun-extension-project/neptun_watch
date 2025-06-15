@@ -16,10 +16,10 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://nappw.dfad.duf.hu/hallgato_ng/             | 2024.3.37 | 2025-06-02T11:55:04 | Dunaújvárosi Egyetem                          | 3                |
 | https://neptun-hweb.sze.hu/hallgato_ng/            | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptun-web1.tr.pte.hu/hallgatoing/         | 2024.3.37 | 2025-06-02T11:55:04 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.37 | 2025-06-02T11:55:04 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.37 | 2025-06-02T11:55:04 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.37 | 2025-06-02T11:55:04 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web1.tr.pte.hu/hallgatoing/         | 2024.3.38 | 2025-06-12T15:23:08 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.38 | 2025-06-12T15:23:08 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.38 | 2025-06-12T15:23:08 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.38 | 2025-06-12T15:23:08 | Pécsi Tudományegyetem                         | 3                |
 | https://neptun-ws01.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-ws02.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-ws03.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
@@ -45,4 +45,4 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptunweb.uni-nke.hu/hallgato_ng/          | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb1.metropolitan.hu/hallgato_ng/    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptunweb2.metropolitan.hu/hallgato_ng/    | N/A       | N/A                 | N/A                                           | N/A              |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.76 | 2025-05-13T14:28:01 | Debreceni Egyetem                             | 3                |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/     | 2024.2.77 | 2025-06-13T08:38:32 | Debreceni Egyetem                             | 3                |
