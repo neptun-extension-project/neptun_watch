@@ -5,12 +5,6 @@
             "server_name": "MTF_NGHW"
         }
     ],
-    "Duna\u00fajv\u00e1rosi Egyetem": [
-        {
-            "url": "https://nappw.dfad.duf.hu/hallgato_ng/",
-            "server_name": "DUFNWH3"
-        }
-    ],
     "P\u00e9csi Tudom\u00e1nyegyetem": [
         {
             "url": "https://neptun-web1.tr.pte.hu/hallgatoing/",
@@ -68,7 +62,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_25"
+            "server_name": "DE_HWEB_21"
         }
     ]
 }
