@@ -16,10 +16,10 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://nappw.dfad.duf.hu/hallgato_ng/             | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-hweb.sze.hu/hallgato_ng/            | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptun-web1.tr.pte.hu/hallgatoing/         | 2024.3.38 | 2025-06-12T15:23:08 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web2.tr.pte.hu/hallgatoing/         | 2024.3.38 | 2025-06-12T15:23:08 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web3.tr.pte.hu/hallgatoing/         | 2024.3.38 | 2025-06-12T15:23:08 | Pécsi Tudományegyetem                         | 3                |
-| https://neptun-web4.tr.pte.hu/hallgatoing/         | 2024.3.38 | 2025-06-12T15:23:08 | Pécsi Tudományegyetem                         | 3                |
+| https://neptun-web1.tr.pte.hu/hallgatoing/         | N/A       | N/A                 | N/A                                           | N/A              |
+| https://neptun-web2.tr.pte.hu/hallgatoing/         | N/A       | N/A                 | N/A                                           | N/A              |
+| https://neptun-web3.tr.pte.hu/hallgatoing/         | N/A       | N/A                 | N/A                                           | N/A              |
+| https://neptun-web4.tr.pte.hu/hallgatoing/         | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-ws01.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-ws02.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun-ws03.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           | N/A              |
