@@ -26,7 +26,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_12"
+            "server_name": "ANGULAR_PROD_WEB_116"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -44,7 +44,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_25"
+            "server_name": "DE_HWEB_21"
         }
     ]
 }
