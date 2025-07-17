@@ -30,7 +30,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.lfze.hu/hallgato_angular/           | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.or-zse.hu/hallgato/                 | 2024.3.38 | 2025-06-12T15:23:08 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
 | https://neptun.szte.hu/hallgato/                   | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptun.tf.hu/hallgato/                     | 2024.3.38 | 2025-06-12T15:23:08 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
+| https://neptun.tf.hu/hallgato/                     | 2024.3.39 | 2025-07-11T08:44:03 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
 | https://neptun.uni-milton.hu/hallgato/             | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.uni-obuda.hu/ujhallgato/            | 2024.2.77 | 2025-06-13T08:38:32 | Óbudai Egyetem                                | 3                |
 | https://neptun.unithe.hu/hallgatoing/              | 2024.2.77 | 2025-06-13T08:38:32 | Tokaj-Hegyalja Egyetem                        | 1                |
