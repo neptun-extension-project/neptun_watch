@@ -10,7 +10,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/drhenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/gfenghw/                    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/momenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
-| https://host.sdakft.hu/mtfhw/                      | 2024.2.77 | 2025-06-13T08:38:32 | Magyar Táncművészeti Egyetem                  | 3                |
+| https://host.sdakft.hu/mtfhw/                      | 2024.2.78 | 2025-07-22T14:33:08 | Magyar Táncművészeti Egyetem                  | 3                |
 | https://host.sdakft.hu/szfenghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/tkbfhw/                     | N/A       | N/A                 | N/A                                           | N/A              |
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           | N/A              |
@@ -28,7 +28,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.gde.hu/hallgato/                    | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.kodolanyi.hu/hallgato_NG/           | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.lfze.hu/hallgato_angular/           | N/A       | N/A                 | N/A                                           | N/A              |
-| https://neptun.or-zse.hu/hallgato/                 | 2024.3.38 | 2025-06-12T15:23:08 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
+| https://neptun.or-zse.hu/hallgato/                 | 2024.3.39 | 2025-07-11T08:44:03 | Országos Rabbiképző - Zsidó Egyetem           | 3                |
 | https://neptun.szte.hu/hallgato/                   | N/A       | N/A                 | N/A                                           | N/A              |
 | https://neptun.tf.hu/hallgato/                     | 2024.3.39 | 2025-07-11T08:44:03 | Magyar Testnevelési és Sporttudományi Egyetem | 3                |
 | https://neptun.uni-milton.hu/hallgato/             | N/A       | N/A                 | N/A                                           | N/A              |
