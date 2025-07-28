@@ -17,12 +17,6 @@
             "server_name": "OR-ZSE NGHW"
         }
     ],
-    "Magyar Testnevel\u00e9si \u00e9s Sporttudom\u00e1nyi Egyetem": [
-        {
-            "url": "https://neptun.tf.hu/hallgato/",
-            "server_name": "MTSE_HW_A"
-        }
-    ],
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
@@ -44,7 +38,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_23"
+            "server_name": "DE_HWEB_21"
         }
     ]
 }
