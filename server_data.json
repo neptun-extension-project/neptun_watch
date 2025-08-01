@@ -20,25 +20,13 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_13"
+            "server_name": "ANGULAR_PROD_WEB_12"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
         {
             "url": "https://neptun.unithe.hu/hallgatoing/",
             "server_name": "THE_NGHW"
-        }
-    ],
-    "\u00c1llatorvostudom\u00e1nyi Egyetem": [
-        {
-            "url": "https://neptun.univet.hu/ate_hw/",
-            "server_name": "ATE_NGHW1"
-        }
-    ],
-    "Debreceni Egyetem": [
-        {
-            "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_24"
         }
     ]
 }
