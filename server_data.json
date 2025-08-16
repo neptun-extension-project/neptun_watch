@@ -14,13 +14,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_13"
-        }
-    ],
-    "Tokaj-Hegyalja Egyetem": [
-        {
-            "url": "https://neptun.unithe.hu/hallgatoing/",
-            "server_name": "THE_NGHW"
+            "server_name": "ANGULAR_PROD_WEB_12"
         }
     ]
 }
