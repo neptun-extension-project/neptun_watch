@@ -1,14 +1,8 @@
 {
-    "E\u00f6tv\u00f6s J\u00f3zsef F\u0151iskola": [
-        {
-            "url": "https://neptun.ejf.hu/hallgato_ng/",
-            "server_name": "EJF_NG_HW"
-        }
-    ],
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "ANGULAR_PROD_WEB_12"
+            "server_name": "ANGULAR_PROD_WEB_116"
         }
     ]
 }
