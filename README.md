@@ -32,7 +32,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.szte.hu/hallgato/                   | N/A       | N/A                 | N/A               | N/A              |
 | https://neptun.tf.hu/hallgato/                     | N/A       | N/A                 | N/A               | N/A              |
 | https://neptun.uni-milton.hu/hallgato/             | N/A       | N/A                 | N/A               | N/A              |
-| https://neptun.uni-obuda.hu/ujhallgato/            | 2024.2.87 | 2025-11-07T15:19:43 | Óbudai Egyetem    | 3                |
+| https://neptun.uni-obuda.hu/ujhallgato/            | 2024.2.89 | 2025-12-16T12:19:28 | Óbudai Egyetem    | 3                |
 | https://neptun.unithe.hu/hallgatoing/              | N/A       | N/A                 | N/A               | N/A              |
 | https://neptun.univet.hu/ate_hw/                   | N/A       | N/A                 | N/A               | N/A              |
 | https://neptun.vhf.hu/hallgato_ng/                 | N/A       | N/A                 | N/A               | N/A              |
