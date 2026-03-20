@@ -1,4 +1,3 @@
-https://host.sdakft.hu/bhfnghw/
 https://host.sdakft.hu/bjhfhw/
 https://host.sdakft.hu/drhehw/
 https://host.sdakft.hu/drhenghw/
@@ -35,8 +34,8 @@ https://neptun2.ppke.hu/hallgato_uj/
 https://neptun3.ppke.hu/hallgato_uj/
 https://neptun3r.web.uni-corvinus.hu/Hallgatoi/
 https://neptunh.uni-eszterhazy.hu/hallgatoangular/
-https://neptunweb.nye.hu/hallgatoing/
+https://neptunweb.nye.hu/hallgato/
 https://neptunweb.uni-nke.hu/hallgato_ng/
-https://neptunweb1.metropolitan.hu/hallgato_ng/
-https://neptunweb2.metropolitan.hu/hallgato_ng/
+https://neptunweb1.metropolitan.hu/hallgato/
+https://neptunweb2.metropolitan.hu/hallgato/
 https://www-h-ng.neptun.unideb.hu/hallgato_ng/
