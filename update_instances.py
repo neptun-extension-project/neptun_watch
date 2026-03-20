@@ -26,20 +26,19 @@ with open('instances.txt') as file:
 
 table_data = []
 neptuns_by_name = {}
-headers = ["URL", "Version", "Generation Date", "Organization Name", "Captcha Required"]
+headers = ["URL", "Version", "Generation Date", "Organization Name"]
 
 for url in instances:
     try:
         response = requests.get(url + 'api/General/EnvironmentData', timeout=60)
         response.raise_for_status()  # Raises an HTTPError for bad responses
         data = response.json()['data']
-        org_name = data['organizationData']['organizationName']
+        org_name = data['instituteNames'][0]["name"] if data['instituteNames'] else "N/A"
         table_data.append([
             url,
             data['version'],
             data['generationDate'],
             org_name,
-            str(data['captchaRequired'])
         ])
         properties = {"url": url, "server_name": data['serverName']}
         if org_name not in neptuns_by_name:
@@ -48,7 +47,7 @@ for url in instances:
             neptuns_by_name[org_name].append(properties)
     except (requests.RequestException, KeyError, ValueError) as e:
         print(f"Error fetching data for {url}: {str(e)}")
-        table_data.append([url, "N/A", "N/A", "N/A", "N/A"])
+        table_data.append([url, "N/A", "N/A", "N/A"])
 
 markdown_table = create_markdown_table(headers, table_data)
 with open("server_data.json", "w") as f:
