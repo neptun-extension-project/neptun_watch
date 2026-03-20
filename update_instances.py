@@ -30,7 +30,7 @@ headers = ["URL", "Version", "Generation Date", "Organization Name", "Captcha Re
 
 for url in instances:
     try:
-        response = requests.get(url + 'api/General/GetEnvironmentData', timeout=60)
+        response = requests.get(url + 'api/General/EnvironmentData', timeout=60)
         response.raise_for_status()  # Raises an HTTPError for bad responses
         data = response.json()['data']
         org_name = data['organizationData']['organizationName']
