@@ -27,13 +27,13 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.gde.hu/hallgato/                    | 2025.3.21 | 2026-02-27T15:24:30 | Gábor Dénes Egyetem                           |
 | https://neptun.kodolanyi.hu/hallgato_NG/           | 2025.2.23 | 2026-03-18T09:20:31 | Kodolányi János Egyetem                       |
 | https://neptun.lfze.hu/hallgato_angular/           | N/A       | N/A                 | N/A                                           |
-| https://neptun.or-zse.hu/hallgato/                 | 2025.2.22 | 2026-02-10T08:46:30 | Országos Rabbiképző - Zsidó Egyetem           |
+| https://neptun.or-zse.hu/hallgato/                 | 2025.2.23 | 2026-03-18T09:20:31 | Országos Rabbiképző - Zsidó Egyetem           |
 | https://neptun.szte.hu/hallgato/                   | 2025.3.21 | 2026-02-27T15:24:30 | Szegedi Tudományegyetem                       |
 | https://neptun.tf.hu/hallgato/                     | 2025.3.21 | 2026-02-27T15:24:30 | Magyar Testnevelési és Sporttudományi Egyetem |
 | https://neptun.uni-milton.hu/hallgato/             | 2025.1.26 | 2025-10-07T14:34:11 | Milton Friedman Egyetem                       |
 | https://neptun.uni-obuda.hu/ujhallgato/            | N/A       | N/A                 | N/A                                           |
 | https://neptun.unithe.hu/hallgatoing/              | N/A       | N/A                 | N/A                                           |
-| https://neptun.univet.hu/ate_hw/                   | 2025.2.22 | 2026-02-10T08:46:30 | Állatorvostudományi Egyetem                   |
+| https://neptun.univet.hu/ate_hw/                   | 2025.2.23 | 2026-03-18T09:20:31 | Állatorvostudományi Egyetem                   |
 | https://neptun.vhf.hu/hallgato_ng/                 | 2025.3.22 | 2026-03-18T07:36:47 | Veszprémi Érseki Főiskola                     |
 | https://neptun.wsuf.hu/hallgatoing/                | N/A       | N/A                 | N/A                                           |
 | https://neptun2.ppke.hu/hallgato_uj/               | 2025.3.21 | 2026-02-27T15:24:30 | Pázmány Péter Katolikus Egyetem               |
