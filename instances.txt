@@ -21,6 +21,7 @@ https://neptun-web4.tr.pte.hu/hallgato/
 https://neptun-ws01.uni-pannon.hu/hallgato/
 https://neptun-ws02.uni-pannon.hu/hallgato/
 https://neptun-ws03.uni-pannon.hu/hallgato/
+https://neptun.bme.hu/hallgatoi/
 https://neptun.edutus.hu/hallgato_ng/
 https://neptun.ejf.hu/hallgato_ng/
 https://neptun.gde.hu/hallgato/
@@ -44,4 +45,3 @@ https://neptunweb.uni-nke.hu/hallgato_ng/
 https://neptunweb1.metropolitan.hu/hallgato/
 https://neptunweb2.metropolitan.hu/hallgato/
 https://www-h-ng.neptun.unideb.hu/hallgato_ng/
-https://neptun.bme.hu/hallgatoi/
