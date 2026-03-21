@@ -39,3 +39,8 @@ https://neptunweb.uni-nke.hu/hallgato_ng/
 https://neptunweb1.metropolitan.hu/hallgato/
 https://neptunweb2.metropolitan.hu/hallgato/
 https://www-h-ng.neptun.unideb.hu/hallgato_ng/
+https://hallgato1.neptun.elte.hu/
+https://hallgato2.neptun.elte.hu/
+https://hallgato3.neptun.elte.hu/
+https://hallgato4.neptun.elte.hu/
+https://hallgato5.neptun.elte.hu/
