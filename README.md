@@ -4,11 +4,11 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                                | Version   | Generation Date     | Organization Name                             |
 |:-------------------------------------------------|:--------|:------------------|:--------------------------------------------|
-| https://hallgato1.neptun.elte.hu/                  | N/A       | N/A                 | N/A                                           |
-| https://hallgato2.neptun.elte.hu/                  | N/A       | N/A                 | N/A                                           |
-| https://hallgato3.neptun.elte.hu/                  | N/A       | N/A                 | N/A                                           |
-| https://hallgato4.neptun.elte.hu/                  | N/A       | N/A                 | N/A                                           |
-| https://hallgato5.neptun.elte.hu/                  | N/A       | N/A                 | N/A                                           |
+| https://hallgato1.neptun.elte.hu/                  | 2025.3.23 | 2026-03-26T13:32:04 | Eötvös Loránd Tudományegyetem                 |
+| https://hallgato2.neptun.elte.hu/                  | 2025.3.23 | 2026-03-26T13:32:04 | Eötvös Loránd Tudományegyetem                 |
+| https://hallgato3.neptun.elte.hu/                  | 2025.3.23 | 2026-03-26T13:32:04 | Eötvös Loránd Tudományegyetem                 |
+| https://hallgato4.neptun.elte.hu/                  | 2025.3.23 | 2026-03-26T13:32:04 | Eötvös Loránd Tudományegyetem                 |
+| https://hallgato5.neptun.elte.hu/                  | 2025.3.23 | 2026-03-26T13:32:04 | Eötvös Loránd Tudományegyetem                 |
 | https://host.sdakft.hu/bjhfhw/                     | 2025.3.23 | 2026-03-26T13:32:04 | Brenner János Hittudományi Főiskola           |
 | https://host.sdakft.hu/drhehw/                     | 2025.3.23 | 2026-03-26T13:32:04 | Debreceni Református Hittudományi Egyetem     |
 | https://host.sdakft.hu/drhenghw/                   | N/A       | N/A                 | N/A                                           |
