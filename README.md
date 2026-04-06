@@ -9,14 +9,14 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://hallgato3.neptun.elte.hu/                  | 2025.3.25 | 2026-04-02T12:17:22 | Eötvös Loránd Tudományegyetem                 |
 | https://hallgato4.neptun.elte.hu/                  | 2025.3.25 | 2026-04-02T12:17:22 | Eötvös Loránd Tudományegyetem                 |
 | https://hallgato5.neptun.elte.hu/                  | 2025.3.25 | 2026-04-02T12:17:22 | Eötvös Loránd Tudományegyetem                 |
-| https://host.sdakft.hu/bjhfhw/                     | 2025.3.25 | 2026-04-02T12:17:22 | Brenner János Hittudományi Főiskola           |
-| https://host.sdakft.hu/drhehw/                     | 2025.3.25 | 2026-04-02T12:17:22 | Debreceni Református Hittudományi Egyetem     |
+| https://host.sdakft.hu/bjhfhw/                     | N/A       | N/A                 | N/A                                           |
+| https://host.sdakft.hu/drhehw/                     | N/A       | N/A                 | N/A                                           |
 | https://host.sdakft.hu/drhenghw/                   | N/A       | N/A                 | N/A                                           |
 | https://host.sdakft.hu/gfenghw/                    | N/A       | N/A                 | N/A                                           |
 | https://host.sdakft.hu/momenghw/                   | N/A       | N/A                 | N/A                                           |
-| https://host.sdakft.hu/mtfhw/                      | 2025.2.24 | 2026-03-26T07:29:49 | Magyar Táncművészeti Egyetem                  |
+| https://host.sdakft.hu/mtfhw/                      | N/A       | N/A                 | N/A                                           |
 | https://host.sdakft.hu/szfenghw/                   | N/A       | N/A                 | N/A                                           |
-| https://host.sdakft.hu/tkbfhw/                     | 2025.3.25 | 2026-04-02T12:17:22 | A Tan Kapuja Buddhista Főiskola               |
+| https://host.sdakft.hu/tkbfhw/                     | N/A       | N/A                 | N/A                                           |
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           |
 | https://nappw.dfad.duf.hu/hallgato_ng/             | 2025.3.23 | 2026-03-26T13:32:04 | Dunaújvárosi Egyetem                          |
 | https://neptun-hweb.sze.hu/hallgato_ng/            | 2025.3.21 | 2026-02-27T15:24:30 | Széchenyi István Egyetem                      |
