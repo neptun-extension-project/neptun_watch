@@ -9,14 +9,14 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://hallgato3.neptun.elte.hu/                  | 2025.3.25 | 2026-04-02T12:17:22 | Eötvös Loránd Tudományegyetem                 |
 | https://hallgato4.neptun.elte.hu/                  | 2025.3.25 | 2026-04-02T12:17:22 | Eötvös Loránd Tudományegyetem                 |
 | https://hallgato5.neptun.elte.hu/                  | 2025.3.25 | 2026-04-02T12:17:22 | Eötvös Loránd Tudományegyetem                 |
-| https://host.sdakft.hu/bjhfhw/                     | N/A       | N/A                 | N/A                                           |
-| https://host.sdakft.hu/drhehw/                     | N/A       | N/A                 | N/A                                           |
+| https://host.sdakft.hu/bjhfhw/                     | 2025.3.25 | 2026-04-02T12:17:22 | Brenner János Hittudományi Főiskola           |
+| https://host.sdakft.hu/drhehw/                     | 2025.3.25 | 2026-04-02T12:17:22 | Debreceni Református Hittudományi Egyetem     |
 | https://host.sdakft.hu/drhenghw/                   | N/A       | N/A                 | N/A                                           |
 | https://host.sdakft.hu/gfenghw/                    | N/A       | N/A                 | N/A                                           |
 | https://host.sdakft.hu/momenghw/                   | N/A       | N/A                 | N/A                                           |
-| https://host.sdakft.hu/mtfhw/                      | N/A       | N/A                 | N/A                                           |
+| https://host.sdakft.hu/mtfhw/                      | 2025.2.24 | 2026-03-26T07:29:49 | Magyar Táncművészeti Egyetem                  |
 | https://host.sdakft.hu/szfenghw/                   | N/A       | N/A                 | N/A                                           |
-| https://host.sdakft.hu/tkbfhw/                     | N/A       | N/A                 | N/A                                           |
+| https://host.sdakft.hu/tkbfhw/                     | 2025.3.25 | 2026-04-02T12:17:22 | A Tan Kapuja Buddhista Főiskola               |
 | https://host.sdakft.hu/tkbfnghw/                   | N/A       | N/A                 | N/A                                           |
 | https://nappw.dfad.duf.hu/hallgato_ng/             | 2025.3.23 | 2026-03-26T13:32:04 | Dunaújvárosi Egyetem                          |
 | https://neptun-hweb.sze.hu/hallgato_ng/            | 2025.3.21 | 2026-02-27T15:24:30 | Széchenyi István Egyetem                      |
@@ -30,7 +30,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.bme.hu/hallgatoi/                   | N/A       | N/A                 | N/A                                           |
 | https://neptun.edutus.hu/hallgato_ng/              | N/A       | N/A                 | N/A                                           |
 | https://neptun.ejf.hu/hallgato_ng/                 | 2025.2.22 | 2026-02-10T08:46:30 | Eötvös József Főiskola                        |
-| https://neptun.gde.hu/hallgato/                    | 2025.3.24 | 2026-03-31T20:10:12 | Gábor Dénes Egyetem                           |
+| https://neptun.gde.hu/hallgato/                    | 2025.3.25 | 2026-04-02T12:17:22 | Gábor Dénes Egyetem                           |
 | https://neptun.kodolanyi.hu/hallgato_NG/           | 2025.2.24 | 2026-03-26T07:29:49 | Kodolányi János Egyetem                       |
 | https://neptun.lfze.hu/hallgato_angular/           | N/A       | N/A                 | N/A                                           |
 | https://neptun.or-zse.hu/hallgato/                 | 2025.2.24 | 2026-03-26T07:29:49 | Országos Rabbiképző - Zsidó Egyetem           |
