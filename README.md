@@ -24,14 +24,14 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web2.tr.pte.hu/hallgato/            | 2025.3.25 | 2026-04-02T12:17:22 | Pécsi Tudományegyetem                         |
 | https://neptun-web3.tr.pte.hu/hallgato/            | 2025.3.25 | 2026-04-02T12:17:22 | Pécsi Tudományegyetem                         |
 | https://neptun-web4.tr.pte.hu/hallgato/            | 2025.3.25 | 2026-04-02T12:17:22 | Pécsi Tudományegyetem                         |
-| https://neptun-ws01.uni-pannon.hu/hallgato/        | 2025.3.22 | 2026-03-18T07:36:47 | Pannon Egyetem                                |
+| https://neptun-ws01.uni-pannon.hu/hallgato/        | 2025.3.25 | 2026-04-02T12:17:22 | Pannon Egyetem                                |
 | https://neptun-ws02.uni-pannon.hu/hallgato/        | N/A       | N/A                 | N/A                                           |
-| https://neptun-ws03.uni-pannon.hu/hallgato/        | 2025.3.22 | 2026-03-18T07:36:47 | Pannon Egyetem                                |
+| https://neptun-ws03.uni-pannon.hu/hallgato/        | 2025.3.25 | 2026-04-02T12:17:22 | Pannon Egyetem                                |
 | https://neptun.bme.hu/hallgatoi/                   | N/A       | N/A                 | N/A                                           |
 | https://neptun.edutus.hu/hallgato_ng/              | N/A       | N/A                 | N/A                                           |
-| https://neptun.ejf.hu/hallgato_ng/                 | 2025.2.22 | 2026-02-10T08:46:30 | Eötvös József Főiskola                        |
+| https://neptun.ejf.hu/hallgato_ng/                 | 2025.2.24 | 2026-03-26T07:29:49 | Eötvös József Főiskola                        |
 | https://neptun.gde.hu/hallgato/                    | 2025.3.25 | 2026-04-02T12:17:22 | Gábor Dénes Egyetem                           |
-| https://neptun.kodolanyi.hu/hallgato_NG/           | 2025.2.24 | 2026-03-26T07:29:49 | Kodolányi János Egyetem                       |
+| https://neptun.kodolanyi.hu/hallgato_NG/           | N/A       | N/A                 | N/A                                           |
 | https://neptun.lfze.hu/hallgato_angular/           | N/A       | N/A                 | N/A                                           |
 | https://neptun.or-zse.hu/hallgato/                 | 2025.2.24 | 2026-03-26T07:29:49 | Országos Rabbiképző - Zsidó Egyetem           |
 | https://neptun.szte.hu/hallgato/                   | 2025.3.25 | 2026-04-02T12:17:22 | Szegedi Tudományegyetem                       |
