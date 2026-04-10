@@ -5,13 +5,11 @@ https://hallgato4.neptun.elte.hu/
 https://hallgato5.neptun.elte.hu/
 https://host.sdakft.hu/bjhfhw/
 https://host.sdakft.hu/drhehw/
-https://host.sdakft.hu/drhenghw/
-https://host.sdakft.hu/gfenghw/
-https://host.sdakft.hu/momenghw/
+https://host.sdakft.hu/gfehw/
+https://host.sdakft.hu/momehw/
 https://host.sdakft.hu/mtfhw/
-https://host.sdakft.hu/szfenghw/
+https://host.sdakft.hu/szfehw/
 https://host.sdakft.hu/tkbfhw/
-https://host.sdakft.hu/tkbfnghw/
 https://nappw.dfad.duf.hu/hallgato_ng/
 https://neptun-hweb.sze.hu/hallgato_ng/
 https://neptun-web1.tr.pte.hu/hallgato/
