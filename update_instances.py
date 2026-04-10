@@ -1,5 +1,8 @@
 import requests
+import urllib3
 import json
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def create_markdown_table(headers, data):
@@ -30,7 +33,7 @@ headers = ["URL", "Version", "Generation Date", "Organization Name"]
 
 for url in instances:
     try:
-        response = requests.get(url + 'api/General/EnvironmentData', timeout=60)
+        response = requests.get(url + 'api/General/EnvironmentData', timeout=60, allow_redirects=True, verify=False)
         response.raise_for_status()  # Raises an HTTPError for bad responses
         data = response.json()['data']
         org_name = data['instituteNames'][0]["name"] if data['instituteNames'] else "N/A"
@@ -46,7 +49,7 @@ for url in instances:
         else:
             neptuns_by_name[org_name].append(properties)
     except (requests.RequestException, KeyError, ValueError) as e:
-        print(f"Error fetching data for {url}: {str(e)}")
+        print(f"Error fetching data for {url}: [{type(e).__name__}] {str(e)}")
         table_data.append([url, "N/A", "N/A", "N/A"])
 
 markdown_table = create_markdown_table(headers, table_data)
