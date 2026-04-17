@@ -35,7 +35,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.szte.hu/hallgato/                | 2025.3.25 | 2026-04-02T12:17:22 | Szegedi Tudományegyetem                       |
 | https://neptun.tf.hu/hallgato/                  | 2025.3.25 | 2026-04-02T12:17:22 | Magyar Testnevelési és Sporttudományi Egyetem |
 | https://neptun.uni-milton.hu/hallgato/          | 2025.1.26 | 2025-10-07T14:34:11 | Milton Friedman Egyetem                       |
-| https://neptun.uni-obuda.hu/ujhallgato/         | N/A       | N/A                 | N/A                                           |
+| https://neptun.uni-obuda.hu/ujhallgato/         | 2025.3.25 | 2026-04-02T12:17:22 | Óbudai Egyetem                                |
 | https://neptun.unithe.hu/hallgato/              | 2025.2.24 | 2026-03-26T07:29:49 | Tokaj-Hegyalja Egyetem                        |
 | https://neptun.univet.hu/ate_hw/                | 2025.2.24 | 2026-03-26T07:29:49 | Állatorvostudományi Egyetem                   |
 | https://neptun.vhf.hu/hallgato_ng/              | 2025.3.25 | 2026-04-02T12:17:22 | Veszprémi Érseki Főiskola                     |
@@ -48,4 +48,4 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2025.2.24 | 2026-03-26T07:29:49 | Nemzeti Közszolgálati Egyetem                 |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2025.3.22 | 2026-03-18T07:36:47 | Budapesti Metropolitan Egyetem                |
 | https://neptunweb2.metropolitan.hu/hallgato/    | 2025.3.22 | 2026-03-18T07:36:47 | Budapesti Metropolitan Egyetem                |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2025.3.23 | 2026-03-26T13:32:04 | Debreceni Egyetem                             |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | N/A       | N/A                 | N/A                                           |
