@@ -48,4 +48,4 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2025.2.24 | 2026-03-26T07:29:49 | Nemzeti Közszolgálati Egyetem                 |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2025.3.22 | 2026-03-18T07:36:47 | Budapesti Metropolitan Egyetem                |
 | https://neptunweb2.metropolitan.hu/hallgato/    | 2025.3.22 | 2026-03-18T07:36:47 | Budapesti Metropolitan Egyetem                |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2025.3.23 | 2026-03-26T13:32:04 | Debreceni Egyetem                             |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | N/A       | N/A                 | N/A                                           |
