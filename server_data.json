@@ -21,12 +21,6 @@
             "server_name": "ELTE_HW5"
         }
     ],
-    "Brenner J\u00e1nos Hittudom\u00e1nyi F\u0151iskola": [
-        {
-            "url": "https://host.sdakft.hu/bjhfhw/",
-            "server_name": "BJHF_NGHW"
-        }
-    ],
     "Debreceni Reform\u00e1tus Hittudom\u00e1nyi Egyetem": [
         {
             "url": "https://host.sdakft.hu/drhehw/",
@@ -72,7 +66,7 @@
     "Sz\u00e9chenyi Istv\u00e1n Egyetem": [
         {
             "url": "https://neptun-hweb.sze.hu/hallgato_ng/",
-            "server_name": "SZE_W2_HW_NG"
+            "server_name": "SZE_W5_HW_NG"
         }
     ],
     "P\u00e9csi Tudom\u00e1nyegyetem": [
@@ -136,7 +130,7 @@
     "Szegedi Tudom\u00e1nyegyetem": [
         {
             "url": "https://neptun.szte.hu/hallgato/",
-            "server_name": "NTWEB01_HW"
+            "server_name": "NTWEB02_HW"
         }
     ],
     "Magyar Testnevel\u00e9si \u00e9s Sporttudom\u00e1nyi Egyetem": [
@@ -217,6 +211,12 @@
         {
             "url": "https://neptunweb2.metropolitan.hu/hallgato/",
             "server_name": "METU_WS2_HLG_NG"
+        }
+    ],
+    "Debreceni Egyetem": [
+        {
+            "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
+            "server_name": "DE_HWEB_22"
         }
     ]
 }
