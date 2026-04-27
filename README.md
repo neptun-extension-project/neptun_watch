@@ -45,7 +45,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2025.3.26 | 2026-04-14T13:17:01 | Budapesti Corvinus Egyetem                    |
 | https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2025.2.23 | 2026-03-18T09:20:31 | Eszterházy Károly Katolikus Egyetem           |
 | https://neptunweb.nye.hu/hallgato/              | 2025.2.24 | 2026-03-26T07:29:49 | Nyíregyházi Egyetem                           |
-| https://neptunweb.uni-nke.hu/hallgato_ng/       | 2025.2.24 | 2026-03-26T07:29:49 | Nemzeti Közszolgálati Egyetem                 |
+| https://neptunweb.uni-nke.hu/hallgato_ng/       | N/A       | N/A                 | N/A                                           |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2025.3.22 | 2026-03-18T07:36:47 | Budapesti Metropolitan Egyetem                |
 | https://neptunweb2.metropolitan.hu/hallgato/    | 2025.3.22 | 2026-03-18T07:36:47 | Budapesti Metropolitan Egyetem                |
 | https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2025.3.26 | 2026-04-14T13:17:01 | Debreceni Egyetem                             |
