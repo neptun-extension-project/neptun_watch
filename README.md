@@ -9,7 +9,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://hallgato3.neptun.elte.hu/               | 2025.3.26 | 2026-04-14T13:17:01 | Eötvös Loránd Tudományegyetem                 |
 | https://hallgato4.neptun.elte.hu/               | 2025.3.26 | 2026-04-14T13:17:01 | Eötvös Loránd Tudományegyetem                 |
 | https://hallgato5.neptun.elte.hu/               | 2025.3.26 | 2026-04-14T13:17:01 | Eötvös Loránd Tudományegyetem                 |
-| https://host.sdakft.hu/bjhfhw/                  | 2026.1.2  | 2026-04-29T13:40:48 | Brenner János Hittudományi Főiskola           |
+| https://host.sdakft.hu/bjhfhw/                  | 2026.1.3  | 2026-05-06T11:36:11 | Brenner János Hittudományi Főiskola           |
 | https://host.sdakft.hu/drhehw/                  | 2025.3.26 | 2026-04-14T13:17:01 | Debreceni Református Hittudományi Egyetem     |
 | https://host.sdakft.hu/gfehw/                   | 2025.3.26 | 2026-04-14T13:17:01 | Gál Ferenc Egyetem                            |
 | https://host.sdakft.hu/momehw/                  | 2025.3.26 | 2026-04-14T13:17:01 | Moholy-Nagy Művészeti Egyetem                 |
