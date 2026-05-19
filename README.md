@@ -5,7 +5,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | URL                                             | Version   | Generation Date     | Organization Name                              |
 |:----------------------------------------------|:--------|:------------------|:---------------------------------------------|
 | https://hallgato1.neptun.elte.hu/               | 2026.1.7  | 2026-05-15T14:21:29 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato2.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
+| https://hallgato2.neptun.elte.hu/               | 2026.1.7  | 2026-05-15T14:21:29 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato3.neptun.elte.hu/               | 2026.1.7  | 2026-05-15T14:21:29 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato4.neptun.elte.hu/               | 2026.1.7  | 2026-05-15T14:21:29 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato5.neptun.elte.hu/               | 2026.1.7  | 2026-05-15T14:21:29 | Eötvös Loránd Tudományegyetem                  |
@@ -28,7 +28,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.bme.hu/hallgatoi/                | 2025.3.27 | 2026-05-11T16:05:12 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
 | https://neptun.ejf.hu/hallgato_ng/              | 2025.3.27 | 2026-05-11T16:05:12 | Eötvös József Főiskola                         |
-| https://neptun.gde.hu/hallgato/                 | 2026.1.6  | 2026-05-14T09:47:29 | Gábor Dénes Egyetem                            |
+| https://neptun.gde.hu/hallgato/                 | 2026.1.7  | 2026-05-15T14:21:29 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2025.2.24 | 2026-03-26T07:29:49 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2025.3.26 | 2026-04-14T13:17:01 | Liszt Ferenc Zeneművészeti Egyetem             |
 | https://neptun.or-zse.hu/hallgato/              | 2025.2.24 | 2026-03-26T07:29:49 | Országos Rabbiképző - Zsidó Egyetem            |
