@@ -1,26 +1,4 @@
 {
-    "E\u00f6tv\u00f6s Lor\u00e1nd Tudom\u00e1nyegyetem": [
-        {
-            "url": "https://hallgato1.neptun.elte.hu/",
-            "server_name": "ELTE_HW1"
-        },
-        {
-            "url": "https://hallgato2.neptun.elte.hu/",
-            "server_name": "ELTE_HW2"
-        },
-        {
-            "url": "https://hallgato3.neptun.elte.hu/",
-            "server_name": "ELTE_HW3"
-        },
-        {
-            "url": "https://hallgato4.neptun.elte.hu/",
-            "server_name": "ELTE_HW4"
-        },
-        {
-            "url": "https://hallgato5.neptun.elte.hu/",
-            "server_name": "ELTE_HW5"
-        }
-    ],
     "Brenner J\u00e1nos Hittudom\u00e1nyi F\u0151iskola": [
         {
             "url": "https://host.sdakft.hu/bjhfhw/",
@@ -72,7 +50,7 @@
     "Sz\u00e9chenyi Istv\u00e1n Egyetem": [
         {
             "url": "https://neptun-hweb.sze.hu/hallgato_ng/",
-            "server_name": "SZE_W3_HW_NG"
+            "server_name": "SZE_W4_HW_NG"
         }
     ],
     "P\u00e9csi Tudom\u00e1nyegyetem": [
@@ -160,7 +138,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "Hallgato_WEB_12"
+            "server_name": "Hallgato_WEB_116"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -194,7 +172,7 @@
     "Budapesti Corvinus Egyetem": [
         {
             "url": "https://neptun3r.web.uni-corvinus.hu/Hallgatoi/",
-            "server_name": "BCE_HA1"
+            "server_name": "BCE_HA2"
         }
     ],
     "Eszterh\u00e1zy K\u00e1roly Katolikus Egyetem": [
@@ -212,7 +190,7 @@
     "Nemzeti K\u00f6zszolg\u00e1lati Egyetem": [
         {
             "url": "https://neptunweb.uni-nke.hu/hallgato_ng/",
-            "server_name": "NKE_WEB2_HWNG"
+            "server_name": "NKE_WEB1_HWNG"
         }
     ],
     "Budapesti Metropolitan Egyetem": [
