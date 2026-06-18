@@ -4,11 +4,11 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                             | Version   | Generation Date     | Organization Name                              |
 |:----------------------------------------------|:--------|:------------------|:---------------------------------------------|
-| https://hallgato1.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
+| https://hallgato1.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato2.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
-| https://hallgato3.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
-| https://hallgato4.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
-| https://hallgato5.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
+| https://hallgato3.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato4.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato5.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
 | https://host.sdakft.hu/bjhfhw/                  | 2026.1.12 | 2026-06-04T16:36:01 | Brenner János Hittudományi Főiskola            |
 | https://host.sdakft.hu/drhehw/                  | 2025.3.31 | 2026-06-11T10:37:12 | Debreceni Református Hittudományi Egyetem      |
 | https://host.sdakft.hu/gfehw/                   | 2025.3.31 | 2026-06-11T10:37:12 | Gál Ferenc Egyetem                             |
@@ -22,12 +22,12 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2025.3.31 | 2026-06-11T10:37:12 | Pécsi Tudományegyetem                          |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2025.3.31 | 2026-06-11T10:37:12 | Pécsi Tudományegyetem                          |
 | https://neptun-web4.tr.pte.hu/hallgato/         | 2025.3.31 | 2026-06-11T10:37:12 | Pécsi Tudományegyetem                          |
-| https://neptun-ws01.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
+| https://neptun-ws01.uni-pannon.hu/hallgato/     | 2025.3.31 | 2026-06-11T10:37:12 | Pannon Egyetem                                 |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
-| https://neptun-ws03.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
+| https://neptun-ws03.uni-pannon.hu/hallgato/     | 2025.3.31 | 2026-06-11T10:37:12 | Pannon Egyetem                                 |
 | https://neptun.bme.hu/hallgatoi/                | 2025.3.31 | 2026-06-11T10:37:12 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
-| https://neptun.ejf.hu/hallgato_ng/              | 2025.3.30 | 2026-06-04T10:40:25 | Eötvös József Főiskola                         |
+| https://neptun.ejf.hu/hallgato_ng/              | 2025.3.31 | 2026-06-11T10:37:12 | Eötvös József Főiskola                         |
 | https://neptun.gde.hu/hallgato/                 | 2026.1.13 | 2026-06-12T16:51:43 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2025.2.24 | 2026-03-26T07:29:49 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.1.13 | 2026-06-12T16:51:43 | Liszt Ferenc Zeneművészeti Egyetem             |
