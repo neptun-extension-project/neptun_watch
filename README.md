@@ -4,9 +4,9 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                             | Version   | Generation Date     | Organization Name                              |
 |:----------------------------------------------|:--------|:------------------|:---------------------------------------------|
-| https://hallgato1.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato1.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
 | https://hallgato2.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato3.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
+| https://hallgato3.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato4.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato5.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
 | https://host.sdakft.hu/bjhfhw/                  | 2026.1.13 | 2026-06-12T16:51:43 | Brenner János Hittudományi Főiskola            |
