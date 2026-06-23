@@ -4,11 +4,11 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                             | Version   | Generation Date     | Organization Name                              |
 |:----------------------------------------------|:--------|:------------------|:---------------------------------------------|
-| https://hallgato1.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
-| https://hallgato2.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato3.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato4.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato5.neptun.elte.hu/               | 2026.1.13 | 2026-06-12T16:51:43 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato1.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato2.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato3.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato4.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato5.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
 | https://host.sdakft.hu/bjhfhw/                  | 2026.1.13 | 2026-06-12T16:51:43 | Brenner János Hittudományi Főiskola            |
 | https://host.sdakft.hu/drhehw/                  | 2025.3.32 | 2026-06-17T09:53:50 | Debreceni Református Hittudományi Egyetem      |
 | https://host.sdakft.hu/gfehw/                   | 2025.3.32 | 2026-06-17T09:53:50 | Gál Ferenc Egyetem                             |
@@ -22,23 +22,23 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2025.3.32 | 2026-06-17T09:53:50 | Pécsi Tudományegyetem                          |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2025.3.32 | 2026-06-17T09:53:50 | Pécsi Tudományegyetem                          |
 | https://neptun-web4.tr.pte.hu/hallgato/         | 2025.3.32 | 2026-06-17T09:53:50 | Pécsi Tudományegyetem                          |
-| https://neptun-ws01.uni-pannon.hu/hallgato/     | 2025.3.31 | 2026-06-11T10:37:12 | Pannon Egyetem                                 |
+| https://neptun-ws01.uni-pannon.hu/hallgato/     | 2025.3.32 | 2026-06-17T09:53:50 | Pannon Egyetem                                 |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
-| https://neptun-ws03.uni-pannon.hu/hallgato/     | 2025.3.31 | 2026-06-11T10:37:12 | Pannon Egyetem                                 |
-| https://neptun.bme.hu/hallgatoi/                | 2025.3.31 | 2026-06-11T10:37:12 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
+| https://neptun-ws03.uni-pannon.hu/hallgato/     | 2025.3.32 | 2026-06-17T09:53:50 | Pannon Egyetem                                 |
+| https://neptun.bme.hu/hallgatoi/                | 2025.3.32 | 2026-06-17T09:53:50 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
 | https://neptun.ejf.hu/hallgato_ng/              | 2025.3.31 | 2026-06-11T10:37:12 | Eötvös József Főiskola                         |
-| https://neptun.gde.hu/hallgato/                 | 2026.1.13 | 2026-06-12T16:51:43 | Gábor Dénes Egyetem                            |
+| https://neptun.gde.hu/hallgato/                 | 2026.1.14 | 2026-06-22T12:21:47 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2025.2.24 | 2026-03-26T07:29:49 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.1.13 | 2026-06-12T16:51:43 | Liszt Ferenc Zeneművészeti Egyetem             |
 | https://neptun.or-zse.hu/hallgato/              | 2025.2.24 | 2026-03-26T07:29:49 | Országos Rabbiképző - Zsidó Egyetem            |
 | https://neptun.szte.hu/hallgato/                | 2025.3.30 | 2026-06-04T10:40:25 | Szegedi Tudományegyetem                        |
 | https://neptun.tf.hu/hallgato/                  | 2025.3.30 | 2026-06-04T10:40:25 | Magyar Testnevelési és Sporttudományi Egyetem  |
 | https://neptun.uni-milton.hu/hallgato/          | 2025.1.26 | 2025-10-07T14:34:11 | Milton Friedman Egyetem                        |
-| https://neptun.uni-obuda.hu/ujhallgato/         | 2026.1.13 | 2026-06-12T16:51:43 | Óbudai Egyetem                                 |
+| https://neptun.uni-obuda.hu/ujhallgato/         | 2026.1.14 | 2026-06-22T12:21:47 | Óbudai Egyetem                                 |
 | https://neptun.unithe.hu/hallgato/              | 2026.1.13 | 2026-06-12T16:51:43 | Tokaj-Hegyalja Egyetem                         |
 | https://neptun.univet.hu/ate_hw/                | 2025.3.32 | 2026-06-17T09:53:50 | Állatorvostudományi Egyetem                    |
-| https://neptun.vhf.hu/hallgato_ng/              | 2026.1.13 | 2026-06-12T16:51:43 | Veszprémi Érseki Főiskola                      |
+| https://neptun.vhf.hu/hallgato_ng/              | 2026.1.14 | 2026-06-22T12:21:47 | Veszprémi Érseki Főiskola                      |
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                            |
 | https://neptun2.ppke.hu/hallgato_uj/            | 2026.1.13 | 2026-06-12T16:51:43 | Pázmány Péter Katolikus Egyetem                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2026.1.13 | 2026-06-12T16:51:43 | Pázmány Péter Katolikus Egyetem                |
