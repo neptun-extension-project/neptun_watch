@@ -4,8 +4,8 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                             | Version   | Generation Date     | Organization Name                              |
 |:----------------------------------------------|:--------|:------------------|:---------------------------------------------|
-| https://hallgato1.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato2.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato1.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
+| https://hallgato2.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
 | https://hallgato3.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato4.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato5.neptun.elte.hu/               | 2026.1.14 | 2026-06-22T12:21:47 | Eötvös Loránd Tudományegyetem                  |
@@ -48,4 +48,4 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2025.3.32 | 2026-06-17T09:53:50 | Nemzeti Közszolgálati Egyetem                  |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2025.3.29 | 2026-05-28T16:40:52 | Budapesti Metropolitan Egyetem                 |
 | https://neptunweb2.metropolitan.hu/hallgato/    | 2025.3.29 | 2026-05-28T16:40:52 | Budapesti Metropolitan Egyetem                 |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2026.1.14 | 2026-06-22T12:21:47 | Debreceni Egyetem                              |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | N/A       | N/A                 | N/A                                            |
