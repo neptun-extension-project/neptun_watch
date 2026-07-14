@@ -21,14 +21,14 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.1.19 | 2026-07-10T10:44:07 | Pécsi Tudományegyetem                         |
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.1.19 | 2026-07-10T10:44:07 | Pécsi Tudományegyetem                         |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2026.1.19 | 2026-07-10T10:44:07 | Pécsi Tudományegyetem                         |
-| https://neptun-web4.tr.pte.hu/hallgato/         | 2026.1.19 | 2026-07-10T10:44:07 | Pécsi Tudományegyetem                         |
+| https://neptun-web4.tr.pte.hu/hallgato/         | N/A       | N/A                 | N/A                                           |
 | https://neptun-ws01.uni-pannon.hu/hallgato/     | 2025.3.33 | 2026-06-25T15:22:01 | Pannon Egyetem                                |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                           |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2025.3.33 | 2026-06-25T15:22:01 | Pannon Egyetem                                |
 | https://neptun.bme.hu/hallgatoi/                | N/A       | N/A                 | N/A                                           |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                           |
 | https://neptun.ejf.hu/hallgato_ng/              | 2025.3.31 | 2026-06-11T10:37:12 | Eötvös József Főiskola                        |
-| https://neptun.gde.hu/hallgato/                 | 2026.1.17 | 2026-07-03T10:21:24 | Gábor Dénes Egyetem                           |
+| https://neptun.gde.hu/hallgato/                 | 2026.1.19 | 2026-07-10T10:44:07 | Gábor Dénes Egyetem                           |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.1.19 | 2026-07-10T10:44:07 | Kodolányi János Egyetem                       |
 | https://neptun.lfze.hu/hallgato/                | 2026.1.17 | 2026-07-03T10:21:24 | Liszt Ferenc Zeneművészeti Egyetem            |
 | https://neptun.or-zse.hu/hallgato/              | 2025.2.24 | 2026-03-26T07:29:49 | Országos Rabbiképző - Zsidó Egyetem           |
@@ -36,7 +36,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.tf.hu/hallgato/                  | 2025.3.33 | 2026-06-25T15:22:01 | Magyar Testnevelési és Sporttudományi Egyetem |
 | https://neptun.uni-milton.hu/hallgato/          | 2025.1.26 | 2025-10-07T14:34:11 | Milton Friedman Egyetem                       |
 | https://neptun.uni-obuda.hu/ujhallgato/         | 2026.1.15 | 2026-06-25T10:45:02 | Óbudai Egyetem                                |
-| https://neptun.unithe.hu/hallgato/              | 2026.1.18 | 2026-07-09T09:01:10 | Tokaj-Hegyalja Egyetem                        |
+| https://neptun.unithe.hu/hallgato/              | 2026.1.19 | 2026-07-10T10:44:07 | Tokaj-Hegyalja Egyetem                        |
 | https://neptun.univet.hu/ate_hw/                | 2025.3.33 | 2026-06-25T15:22:01 | Állatorvostudományi Egyetem                   |
 | https://neptun.vhf.hu/hallgato_ng/              | 2026.1.19 | 2026-07-10T10:44:07 | Veszprémi Érseki Főiskola                     |
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                           |
@@ -48,4 +48,4 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2025.3.33 | 2026-06-25T15:22:01 | Nemzeti Közszolgálati Egyetem                 |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2025.3.29 | 2026-05-28T16:40:52 | Budapesti Metropolitan Egyetem                |
 | https://neptunweb2.metropolitan.hu/hallgato/    | 2025.3.29 | 2026-05-28T16:40:52 | Budapesti Metropolitan Egyetem                |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2026.1.19 | 2026-07-10T10:44:07 | Debreceni Egyetem                             |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | N/A       | N/A                 | N/A                                           |
