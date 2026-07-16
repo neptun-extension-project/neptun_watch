@@ -72,7 +72,7 @@
     "Sz\u00e9chenyi Istv\u00e1n Egyetem": [
         {
             "url": "https://neptun-hweb.sze.hu/hallgato_ng/",
-            "server_name": "SZE_W4_HW_NG"
+            "server_name": "SZE_W3_HW_NG"
         }
     ],
     "P\u00e9csi Tudom\u00e1nyegyetem": [
@@ -87,6 +87,10 @@
         {
             "url": "https://neptun-web3.tr.pte.hu/hallgato/",
             "server_name": "PTE_HW_NG3"
+        },
+        {
+            "url": "https://neptun-web4.tr.pte.hu/hallgato/",
+            "server_name": "PTE_HW_NG4"
         }
     ],
     "Pannon Egyetem": [
@@ -117,6 +121,12 @@
             "server_name": "KJF_NG"
         }
     ],
+    "Liszt Ferenc Zenem\u0171v\u00e9szeti Egyetem": [
+        {
+            "url": "https://neptun.lfze.hu/hallgato/",
+            "server_name": "LFZE_HW2"
+        }
+    ],
     "Orsz\u00e1gos Rabbik\u00e9pz\u0151 - Zsid\u00f3 Egyetem": [
         {
             "url": "https://neptun.or-zse.hu/hallgato/",
@@ -144,7 +154,7 @@
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "Hallgato_WEB_12"
+            "server_name": "Hallgato_WEB_13"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -178,7 +188,7 @@
     "Budapesti Corvinus Egyetem": [
         {
             "url": "https://neptun3r.web.uni-corvinus.hu/Hallgatoi/",
-            "server_name": "BCE_HA3"
+            "server_name": "BCE_HA4"
         }
     ],
     "Eszterh\u00e1zy K\u00e1roly Katolikus Egyetem": [
@@ -196,7 +206,7 @@
     "Nemzeti K\u00f6zszolg\u00e1lati Egyetem": [
         {
             "url": "https://neptunweb.uni-nke.hu/hallgato_ng/",
-            "server_name": "NKE_WEB2_HWNG"
+            "server_name": "NKE_WEB1_HWNG"
         }
     ],
     "Budapesti Metropolitan Egyetem": [
@@ -212,7 +222,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_23"
+            "server_name": "DE_HWEB_25"
         }
     ]
 }

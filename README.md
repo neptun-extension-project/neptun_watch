@@ -21,7 +21,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.1.19 | 2026-07-10T10:44:07 | Pécsi Tudományegyetem                         |
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.1.19 | 2026-07-10T10:44:07 | Pécsi Tudományegyetem                         |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2026.1.19 | 2026-07-10T10:44:07 | Pécsi Tudományegyetem                         |
-| https://neptun-web4.tr.pte.hu/hallgato/         | N/A       | N/A                 | N/A                                           |
+| https://neptun-web4.tr.pte.hu/hallgato/         | 2026.1.19 | 2026-07-10T10:44:07 | Pécsi Tudományegyetem                         |
 | https://neptun-ws01.uni-pannon.hu/hallgato/     | 2025.3.33 | 2026-06-25T15:22:01 | Pannon Egyetem                                |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                           |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2025.3.33 | 2026-06-25T15:22:01 | Pannon Egyetem                                |
@@ -30,7 +30,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.ejf.hu/hallgato_ng/              | 2026.1.19 | 2026-07-10T10:44:07 | Eötvös József Főiskola                        |
 | https://neptun.gde.hu/hallgato/                 | 2026.1.19 | 2026-07-10T10:44:07 | Gábor Dénes Egyetem                           |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.1.19 | 2026-07-10T10:44:07 | Kodolányi János Egyetem                       |
-| https://neptun.lfze.hu/hallgato/                | N/A       | N/A                 | N/A                                           |
+| https://neptun.lfze.hu/hallgato/                | 2026.1.17 | 2026-07-03T10:21:24 | Liszt Ferenc Zeneművészeti Egyetem            |
 | https://neptun.or-zse.hu/hallgato/              | 2025.2.24 | 2026-03-26T07:29:49 | Országos Rabbiképző - Zsidó Egyetem           |
 | https://neptun.szte.hu/hallgato/                | 2026.1.16 | 2026-06-29T10:12:44 | Szegedi Tudományegyetem                       |
 | https://neptun.tf.hu/hallgato/                  | 2025.3.33 | 2026-06-25T15:22:01 | Magyar Testnevelési és Sporttudományi Egyetem |
