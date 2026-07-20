@@ -30,7 +30,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.ejf.hu/hallgato_ng/              | 2026.1.19 | 2026-07-10T10:44:07 | Eötvös József Főiskola                        |
 | https://neptun.gde.hu/hallgato/                 | 2026.1.19 | 2026-07-10T10:44:07 | Gábor Dénes Egyetem                           |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.1.19 | 2026-07-10T10:44:07 | Kodolányi János Egyetem                       |
-| https://neptun.lfze.hu/hallgato/                | 2026.1.17 | 2026-07-03T10:21:24 | Liszt Ferenc Zeneművészeti Egyetem            |
+| https://neptun.lfze.hu/hallgato/                | 2026.1.19 | 2026-07-10T10:44:07 | Liszt Ferenc Zeneművészeti Egyetem            |
 | https://neptun.or-zse.hu/hallgato/              | 2025.2.24 | 2026-03-26T07:29:49 | Országos Rabbiképző - Zsidó Egyetem           |
 | https://neptun.szte.hu/hallgato/                | 2026.1.19 | 2026-07-10T10:44:07 | Szegedi Tudományegyetem                       |
 | https://neptun.tf.hu/hallgato/                  | 2025.3.34 | 2026-07-13T19:13:23 | Magyar Testnevelési és Sporttudományi Egyetem |
@@ -44,8 +44,8 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun3.ppke.hu/hallgato_uj/            | 2026.1.17 | 2026-07-03T10:21:24 | Pázmány Péter Katolikus Egyetem               |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2026.1.19 | 2026-07-10T10:44:07 | Budapesti Corvinus Egyetem                    |
 | https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2025.3.33 | 2026-06-25T15:22:01 | Eszterházy Károly Katolikus Egyetem           |
-| https://neptunweb.nye.hu/hallgato/              | 2026.1.12 | 2026-06-04T16:36:01 | Nyíregyházi Egyetem                           |
+| https://neptunweb.nye.hu/hallgato/              | N/A       | N/A                 | N/A                                           |
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2025.3.34 | 2026-07-13T19:13:23 | Nemzeti Közszolgálati Egyetem                 |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2025.3.29 | 2026-05-28T16:40:52 | Budapesti Metropolitan Egyetem                |
 | https://neptunweb2.metropolitan.hu/hallgato/    | 2025.3.29 | 2026-05-28T16:40:52 | Budapesti Metropolitan Egyetem                |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | N/A       | N/A                 | N/A                                           |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2026.1.19 | 2026-07-10T10:44:07 | Debreceni Egyetem                             |
