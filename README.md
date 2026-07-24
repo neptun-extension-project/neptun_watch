@@ -11,7 +11,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://hallgato5.neptun.elte.hu/               | 2026.1.21 | 2026-07-20T13:50:33 | Eötvös Loránd Tudományegyetem                 |
 | https://host.sdakft.hu/bjhfhw/                  | 2026.2.2  | 2026-07-17T17:06:27 | Brenner János Hittudományi Főiskola           |
 | https://host.sdakft.hu/drhehw/                  | 2026.2.2  | 2026-07-17T17:06:27 | Debreceni Református Hittudományi Egyetem     |
-| https://host.sdakft.hu/gfehw/                   | 2025.3.34 | 2026-07-13T19:13:23 | Gál Ferenc Egyetem                            |
+| https://host.sdakft.hu/gfehw/                   | 2026.2.2  | 2026-07-17T17:06:27 | Gál Ferenc Egyetem                            |
 | https://host.sdakft.hu/momehw/                  | 2026.1.19 | 2026-07-10T10:44:07 | Moholy-Nagy Művészeti Egyetem                 |
 | https://host.sdakft.hu/mtfhw/                   | 2026.2.2  | 2026-07-17T17:06:27 | Magyar Táncművészeti Egyetem                  |
 | https://host.sdakft.hu/szfehw/                  | 2026.1.19 | 2026-07-10T10:44:07 | Színház- és Filmművészeti Egyetem             |
@@ -27,7 +27,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2025.3.34 | 2026-07-13T19:13:23 | Pannon Egyetem                                |
 | https://neptun.bme.hu/hallgatoi/                | N/A       | N/A                 | N/A                                           |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                           |
-| https://neptun.ejf.hu/hallgato_ng/              | 2026.1.20 | 2026-07-17T09:59:39 | Eötvös József Főiskola                        |
+| https://neptun.ejf.hu/hallgato_ng/              | 2026.1.21 | 2026-07-20T13:50:33 | Eötvös József Főiskola                        |
 | https://neptun.gde.hu/hallgato/                 | 2026.2.2  | 2026-07-17T17:06:27 | Gábor Dénes Egyetem                           |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.1.21 | 2026-07-20T13:50:33 | Kodolányi János Egyetem                       |
 | https://neptun.lfze.hu/hallgato/                | 2026.1.21 | 2026-07-20T13:50:33 | Liszt Ferenc Zeneművészeti Egyetem            |
@@ -43,8 +43,8 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun2.ppke.hu/hallgato_uj/            | 2026.1.20 | 2026-07-17T09:59:39 | Pázmány Péter Katolikus Egyetem               |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2026.1.20 | 2026-07-17T09:59:39 | Pázmány Péter Katolikus Egyetem               |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2026.1.20 | 2026-07-17T09:59:39 | Budapesti Corvinus Egyetem                    |
-| https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2025.3.33 | 2026-06-25T15:22:01 | Eszterházy Károly Katolikus Egyetem           |
-| https://neptunweb.nye.hu/hallgato/              | 2026.1.12 | 2026-06-04T16:36:01 | Nyíregyházi Egyetem                           |
+| https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2025.3.34 | 2026-07-13T19:13:23 | Eszterházy Károly Katolikus Egyetem           |
+| https://neptunweb.nye.hu/hallgato/              | 2026.1.21 | 2026-07-20T13:50:33 | Nyíregyházi Egyetem                           |
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2025.3.34 | 2026-07-13T19:13:23 | Nemzeti Közszolgálati Egyetem                 |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2026.2.2  | 2026-07-17T17:06:27 | Budapesti Metropolitan Egyetem                |
 | https://neptunweb2.metropolitan.hu/hallgato/    | 2026.2.2  | 2026-07-17T17:06:27 | Budapesti Metropolitan Egyetem                |
