@@ -21,7 +21,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.1.21 | 2026-07-20T13:50:33 | Pécsi Tudományegyetem                         |
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.1.21 | 2026-07-20T13:50:33 | Pécsi Tudományegyetem                         |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2026.1.21 | 2026-07-20T13:50:33 | Pécsi Tudományegyetem                         |
-| https://neptun-web4.tr.pte.hu/hallgato/         | 2026.1.21 | 2026-07-20T13:50:33 | Pécsi Tudományegyetem                         |
+| https://neptun-web4.tr.pte.hu/hallgato/         | N/A       | N/A                 | N/A                                           |
 | https://neptun-ws01.uni-pannon.hu/hallgato/     | 2025.3.34 | 2026-07-13T19:13:23 | Pannon Egyetem                                |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                           |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2025.3.34 | 2026-07-13T19:13:23 | Pannon Egyetem                                |
@@ -33,7 +33,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.lfze.hu/hallgato/                | 2026.1.21 | 2026-07-20T13:50:33 | Liszt Ferenc Zeneművészeti Egyetem            |
 | https://neptun.or-zse.hu/hallgato/              | 2025.2.24 | 2026-03-26T07:29:49 | Országos Rabbiképző - Zsidó Egyetem           |
 | https://neptun.szte.hu/hallgato/                | 2026.1.19 | 2026-07-10T10:44:07 | Szegedi Tudományegyetem                       |
-| https://neptun.tf.hu/hallgato/                  | 2026.2.2  | 2026-07-17T17:06:27 | Magyar Testnevelési és Sporttudományi Egyetem |
+| https://neptun.tf.hu/hallgato/                  | 2026.2.4  | 2026-07-24T15:46:58 | Magyar Testnevelési és Sporttudományi Egyetem |
 | https://neptun.uni-milton.hu/hallgato/          | 2025.1.26 | 2025-10-07T14:34:11 | Milton Friedman Egyetem                       |
 | https://neptun.uni-obuda.hu/ujhallgato/         | 2026.1.20 | 2026-07-17T09:59:39 | Óbudai Egyetem                                |
 | https://neptun.unithe.hu/hallgato/              | 2026.2.2  | 2026-07-17T17:06:27 | Tokaj-Hegyalja Egyetem                        |
