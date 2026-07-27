@@ -21,7 +21,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.1.21 | 2026-07-20T13:50:33 | Pécsi Tudományegyetem                         |
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.1.21 | 2026-07-20T13:50:33 | Pécsi Tudományegyetem                         |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2026.1.21 | 2026-07-20T13:50:33 | Pécsi Tudományegyetem                         |
-| https://neptun-web4.tr.pte.hu/hallgato/         | N/A       | N/A                 | N/A                                           |
+| https://neptun-web4.tr.pte.hu/hallgato/         | 2026.1.21 | 2026-07-20T13:50:33 | Pécsi Tudományegyetem                         |
 | https://neptun-ws01.uni-pannon.hu/hallgato/     | 2025.3.34 | 2026-07-13T19:13:23 | Pannon Egyetem                                |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                           |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2025.3.34 | 2026-07-13T19:13:23 | Pannon Egyetem                                |
