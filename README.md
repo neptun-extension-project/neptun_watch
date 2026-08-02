@@ -33,7 +33,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.lfze.hu/hallgato/                | 2026.1.23 | 2026-07-30T09:59:12 | Liszt Ferenc Zeneművészeti Egyetem            |
 | https://neptun.or-zse.hu/hallgato/              | 2026.2.6  | 2026-07-30T16:46:57 | Országos Rabbiképző - Zsidó Egyetem           |
 | https://neptun.szte.hu/hallgato/                | 2026.1.19 | 2026-07-10T10:44:07 | Szegedi Tudományegyetem                       |
-| https://neptun.tf.hu/hallgato/                  | 2026.2.5  | 2026-07-29T00:37:31 | Magyar Testnevelési és Sporttudományi Egyetem |
+| https://neptun.tf.hu/hallgato/                  | 2026.2.6  | 2026-07-30T16:46:57 | Magyar Testnevelési és Sporttudományi Egyetem |
 | https://neptun.uni-milton.hu/hallgato/          | 2025.1.26 | 2025-10-07T14:34:11 | Milton Friedman Egyetem                       |
 | https://neptun.uni-obuda.hu/ujhallgato/         | 2026.1.23 | 2026-07-30T09:59:12 | Óbudai Egyetem                                |
 | https://neptun.unithe.hu/hallgato/              | 2026.2.5  | 2026-07-29T00:37:31 | Tokaj-Hegyalja Egyetem                        |
