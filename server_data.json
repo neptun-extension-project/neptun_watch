@@ -9,10 +9,6 @@
             "server_name": "ELTE_HW2"
         },
         {
-            "url": "https://hallgato3.neptun.elte.hu/",
-            "server_name": "ELTE_HW3"
-        },
-        {
             "url": "https://hallgato4.neptun.elte.hu/",
             "server_name": "ELTE_HW4"
         },
@@ -31,12 +27,6 @@
         {
             "url": "https://host.sdakft.hu/drhehw/",
             "server_name": "DRHE_NGHW"
-        }
-    ],
-    "G\u00e1l Ferenc Egyetem": [
-        {
-            "url": "https://host.sdakft.hu/gfehw/",
-            "server_name": "GFE_NGHW"
         }
     ],
     "Moholy-Nagy M\u0171v\u00e9szeti Egyetem": [
@@ -72,7 +62,7 @@
     "Sz\u00e9chenyi Istv\u00e1n Egyetem": [
         {
             "url": "https://neptun-hweb.sze.hu/hallgato_ng/",
-            "server_name": "SZE_W3_HW_NG"
+            "server_name": "SZE_W5_HW_NG"
         }
     ],
     "P\u00e9csi Tudom\u00e1nyegyetem": [
@@ -136,7 +126,7 @@
     "Szegedi Tudom\u00e1nyegyetem": [
         {
             "url": "https://neptun.szte.hu/hallgato/",
-            "server_name": "NTWEB05_HW"
+            "server_name": "NTWEB01_HW"
         }
     ],
     "Magyar Testnevel\u00e9si \u00e9s Sporttudom\u00e1nyi Egyetem": [
@@ -145,10 +135,16 @@
             "server_name": "MTSE_HW_A"
         }
     ],
+    "Milton Friedman Egyetem": [
+        {
+            "url": "https://neptun.uni-milton.hu/hallgato/",
+            "server_name": "MILTON_HW"
+        }
+    ],
     "\u00d3budai Egyetem": [
         {
             "url": "https://neptun.uni-obuda.hu/ujhallgato/",
-            "server_name": "Hallgato_WEB_12"
+            "server_name": "Hallgato_WEB_118"
         }
     ],
     "Tokaj-Hegyalja Egyetem": [
@@ -182,7 +178,7 @@
     "Budapesti Corvinus Egyetem": [
         {
             "url": "https://neptun3r.web.uni-corvinus.hu/Hallgatoi/",
-            "server_name": "BCE_HA4"
+            "server_name": "BCE_HA5"
         }
     ],
     "Eszterh\u00e1zy K\u00e1roly Katolikus Egyetem": [
@@ -200,7 +196,7 @@
     "Nemzeti K\u00f6zszolg\u00e1lati Egyetem": [
         {
             "url": "https://neptunweb.uni-nke.hu/hallgato_ng/",
-            "server_name": "NKE_WEB2_HWNG"
+            "server_name": "NKE_WEB1_HWNG"
         }
     ],
     "Budapesti Metropolitan Egyetem": [
@@ -216,7 +212,7 @@
     "Debreceni Egyetem": [
         {
             "url": "https://www-h-ng.neptun.unideb.hu/hallgato_ng/",
-            "server_name": "DE_HWEB_22"
+            "server_name": "DE_HWEB_24"
         }
     ]
 }
