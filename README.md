@@ -4,31 +4,31 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                             | Version   | Generation Date     | Organization Name                             |
 |:----------------------------------------------|:--------|:------------------|:--------------------------------------------|
-| https://hallgato1.neptun.elte.hu/               | N/A       | N/A                 | N/A                                           |
-| https://hallgato2.neptun.elte.hu/               | N/A       | N/A                 | N/A                                           |
-| https://hallgato3.neptun.elte.hu/               | N/A       | N/A                 | N/A                                           |
-| https://hallgato4.neptun.elte.hu/               | N/A       | N/A                 | N/A                                           |
-| https://hallgato5.neptun.elte.hu/               | N/A       | N/A                 | N/A                                           |
+| https://hallgato1.neptun.elte.hu/               | 2026.2.9  | 2026-08-10T16:54:54 | Eötvös Loránd Tudományegyetem                 |
+| https://hallgato2.neptun.elte.hu/               | 2026.2.9  | 2026-08-10T16:54:54 | Eötvös Loránd Tudományegyetem                 |
+| https://hallgato3.neptun.elte.hu/               | 2026.2.9  | 2026-08-10T16:54:54 | Eötvös Loránd Tudományegyetem                 |
+| https://hallgato4.neptun.elte.hu/               | 2026.2.9  | 2026-08-10T16:54:54 | Eötvös Loránd Tudományegyetem                 |
+| https://hallgato5.neptun.elte.hu/               | 2026.2.9  | 2026-08-10T16:54:54 | Eötvös Loránd Tudományegyetem                 |
 | https://host.sdakft.hu/bjhfhw/                  | 2026.2.8  | 2026-08-06T14:21:08 | Brenner János Hittudományi Főiskola           |
 | https://host.sdakft.hu/drhehw/                  | 2026.2.8  | 2026-08-06T14:21:08 | Debreceni Református Hittudományi Egyetem     |
-| https://host.sdakft.hu/gfehw/                   | 2026.2.8  | 2026-08-06T14:21:08 | Gál Ferenc Egyetem                            |
+| https://host.sdakft.hu/gfehw/                   | 2026.2.9  | 2026-08-10T16:54:54 | Gál Ferenc Egyetem                            |
 | https://host.sdakft.hu/momehw/                  | 2026.2.8  | 2026-08-06T14:21:08 | Moholy-Nagy Művészeti Egyetem                 |
 | https://host.sdakft.hu/mtfhw/                   | 2026.2.8  | 2026-08-06T14:21:08 | Magyar Táncművészeti Egyetem                  |
 | https://host.sdakft.hu/szfehw/                  | 2026.2.8  | 2026-08-06T14:21:08 | Színház- és Filmművészeti Egyetem             |
 | https://host.sdakft.hu/tkbfhw/                  | 2026.2.8  | 2026-08-06T14:21:08 | A Tan Kapuja Buddhista Főiskola               |
 | https://nappw.dfad.duf.hu/hallgato_ng/          | 2026.2.6  | 2026-07-30T16:46:57 | Dunaújvárosi Egyetem                          |
-| https://neptun-hweb.sze.hu/hallgato_ng/         | 2026.2.5  | 2026-07-29T00:37:31 | Széchenyi István Egyetem                      |
+| https://neptun-hweb.sze.hu/hallgato_ng/         | 2026.2.8  | 2026-08-06T14:21:08 | Széchenyi István Egyetem                      |
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.2.8  | 2026-08-06T14:21:08 | Pécsi Tudományegyetem                         |
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.2.8  | 2026-08-06T14:21:08 | Pécsi Tudományegyetem                         |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2026.2.8  | 2026-08-06T14:21:08 | Pécsi Tudományegyetem                         |
 | https://neptun-web4.tr.pte.hu/hallgato/         | 2026.2.8  | 2026-08-06T14:21:08 | Pécsi Tudományegyetem                         |
-| https://neptun-ws01.uni-pannon.hu/hallgato/     | 2026.2.8  | 2026-08-06T14:21:08 | Pannon Egyetem                                |
+| https://neptun-ws01.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                           |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                           |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2026.2.8  | 2026-08-06T14:21:08 | Pannon Egyetem                                |
 | https://neptun.bme.hu/hallgatoi/                | N/A       | N/A                 | N/A                                           |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                           |
 | https://neptun.ejf.hu/hallgato_ng/              | 2026.2.7  | 2026-08-04T13:58:49 | Eötvös József Főiskola                        |
-| https://neptun.gde.hu/hallgato/                 | 2026.2.7  | 2026-08-04T13:58:49 | Gábor Dénes Egyetem                           |
+| https://neptun.gde.hu/hallgato/                 | 2026.2.9  | 2026-08-10T16:54:54 | Gábor Dénes Egyetem                           |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.1.25 | 2026-08-06T14:31:28 | Kodolányi János Egyetem                       |
 | https://neptun.lfze.hu/hallgato/                | 2026.2.8  | 2026-08-06T14:21:08 | Liszt Ferenc Zeneművészeti Egyetem            |
 | https://neptun.or-zse.hu/hallgato/              | 2026.2.8  | 2026-08-06T14:21:08 | Országos Rabbiképző - Zsidó Egyetem           |
