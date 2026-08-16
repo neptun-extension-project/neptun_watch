@@ -38,7 +38,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.uni-obuda.hu/ujhallgato/         | 2026.2.8  | 2026-08-06T14:21:08 | Óbudai Egyetem                                 |
 | https://neptun.unithe.hu/hallgato/              | 2026.2.10 | 2026-08-13T09:31:04 | Tokaj-Hegyalja Egyetem                         |
 | https://neptun.univet.hu/ate_hw/                | 2026.2.10 | 2026-08-13T09:31:04 | Állatorvostudományi Egyetem                    |
-| https://neptun.vhf.hu/hallgato_ng/              | 2026.2.9  | 2026-08-10T16:54:54 | Veszprémi Érseki Főiskola                      |
+| https://neptun.vhf.hu/hallgato_ng/              | 2026.2.10 | 2026-08-13T09:31:04 | Veszprémi Érseki Főiskola                      |
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                            |
 | https://neptun2.ppke.hu/hallgato_uj/            | 2026.2.9  | 2026-08-10T16:54:54 | Pázmány Péter Katolikus Egyetem                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2026.2.9  | 2026-08-10T16:54:54 | Pázmány Péter Katolikus Egyetem                |
