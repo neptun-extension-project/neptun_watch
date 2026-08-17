@@ -40,12 +40,12 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.univet.hu/ate_hw/                | 2026.2.10 | 2026-08-13T09:31:04 | Állatorvostudományi Egyetem                    |
 | https://neptun.vhf.hu/hallgato_ng/              | 2026.2.10 | 2026-08-13T09:31:04 | Veszprémi Érseki Főiskola                      |
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                            |
-| https://neptun2.ppke.hu/hallgato_uj/            | 2026.2.9  | 2026-08-10T16:54:54 | Pázmány Péter Katolikus Egyetem                |
-| https://neptun3.ppke.hu/hallgato_uj/            | 2026.2.9  | 2026-08-10T16:54:54 | Pázmány Péter Katolikus Egyetem                |
+| https://neptun2.ppke.hu/hallgato_uj/            | N/A       | N/A                 | N/A                                            |
+| https://neptun3.ppke.hu/hallgato_uj/            | N/A       | N/A                 | N/A                                            |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2026.2.9  | 2026-08-10T16:54:54 | Budapesti Corvinus Egyetem                     |
 | https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2026.2.6  | 2026-07-30T16:46:57 | Eszterházy Károly Katolikus Egyetem            |
 | https://neptunweb.nye.hu/hallgato/              | 2026.2.4  | 2026-07-24T15:46:58 | Nyíregyházi Egyetem                            |
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2026.2.10 | 2026-08-13T09:31:04 | Nemzeti Közszolgálati Egyetem                  |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2026.2.5  | 2026-07-29T00:37:31 | Budapesti Metropolitan Egyetem                 |
 | https://neptunweb2.metropolitan.hu/hallgato/    | 2026.2.5  | 2026-07-29T00:37:31 | Budapesti Metropolitan Egyetem                 |
-| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2026.2.10 | 2026-08-13T09:31:04 | Debreceni Egyetem                              |
+| https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | N/A       | N/A                 | N/A                                            |
