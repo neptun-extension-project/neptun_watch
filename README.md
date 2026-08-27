@@ -27,13 +27,13 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2026.2.11 | 2026-08-14T16:56:41 | Pannon Egyetem                                 |
 | https://neptun.bme.hu/hallgatoi/                | 2026.2.11 | 2026-08-14T16:56:41 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
-| https://neptun.ejf.hu/hallgato_ng/              | N/A       | N/A                 | N/A                                            |
+| https://neptun.ejf.hu/hallgato_ng/              | 2026.2.9  | 2026-08-10T16:54:54 | Eötvös József Főiskola                         |
 | https://neptun.gde.hu/hallgato/                 | 2026.2.11 | 2026-08-14T16:56:41 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.2.11 | 2026-08-14T16:56:41 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.2.11 | 2026-08-14T16:56:41 | Liszt Ferenc Zeneművészeti Egyetem             |
 | https://neptun.or-zse.hu/hallgato/              | 2026.2.11 | 2026-08-14T16:56:41 | Országos Rabbiképző - Zsidó Egyetem            |
 | https://neptun.szte.hu/hallgato/                | 2026.1.19 | 2026-07-10T10:44:07 | Szegedi Tudományegyetem                        |
-| https://neptun.tf.hu/hallgato/                  | 2026.2.9  | 2026-08-10T16:54:54 | Magyar Testnevelési és Sporttudományi Egyetem  |
+| https://neptun.tf.hu/hallgato/                  | 2026.2.11 | 2026-08-14T16:56:41 | Magyar Testnevelési és Sporttudományi Egyetem  |
 | https://neptun.uni-milton.hu/hallgato/          | 2026.2.11 | 2026-08-14T16:56:41 | Milton Friedman Egyetem                        |
 | https://neptun.uni-obuda.hu/ujhallgato/         | 2026.2.8  | 2026-08-06T14:21:08 | Óbudai Egyetem                                 |
 | https://neptun.unithe.hu/hallgato/              | 2026.2.11 | 2026-08-14T16:56:41 | Tokaj-Hegyalja Egyetem                         |
