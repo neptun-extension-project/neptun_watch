@@ -43,7 +43,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun2.ppke.hu/hallgato_uj/            | 2026.2.12 | 2026-08-31T15:31:07 | Pázmány Péter Katolikus Egyetem                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2026.2.12 | 2026-08-31T15:31:07 | Pázmány Péter Katolikus Egyetem                |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2026.2.12 | 2026-08-31T15:31:07 | Budapesti Corvinus Egyetem                     |
-| https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2026.2.11 | 2026-08-14T16:56:41 | Eszterházy Károly Katolikus Egyetem            |
+| https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2026.2.12 | 2026-08-31T15:31:07 | Eszterházy Károly Katolikus Egyetem            |
 | https://neptunweb.nye.hu/hallgato/              | 2026.2.4  | 2026-07-24T15:46:58 | Nyíregyházi Egyetem                            |
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2026.2.12 | 2026-08-31T15:31:07 | Nemzeti Közszolgálati Egyetem                  |
 | https://neptunweb1.metropolitan.hu/hallgato/    | 2026.2.11 | 2026-08-14T16:56:41 | Budapesti Metropolitan Egyetem                 |
