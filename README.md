@@ -24,7 +24,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web4.tr.pte.hu/hallgato/         | 2026.2.14 | 2026-09-10T18:00:17 | Pécsi Tudományegyetem                          |
 | https://neptun-ws01.uni-pannon.hu/hallgato/     | 2026.2.13 | 2026-09-07T16:46:30 | Pannon Egyetem                                 |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
-| https://neptun-ws03.uni-pannon.hu/hallgato/     | 2026.2.13 | 2026-09-07T16:46:30 | Pannon Egyetem                                 |
+| https://neptun-ws03.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
 | https://neptun.bme.hu/hallgatoi/                | 2026.2.14 | 2026-09-10T18:00:17 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
 | https://neptun.ejf.hu/hallgato_ng/              | 2026.2.13 | 2026-09-07T16:46:30 | Eötvös József Főiskola                         |
@@ -42,10 +42,10 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                            |
 | https://neptun2.ppke.hu/hallgato_uj/            | 2026.2.13 | 2026-09-07T16:46:30 | Pázmány Péter Katolikus Egyetem                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2026.2.13 | 2026-09-07T16:46:30 | Pázmány Péter Katolikus Egyetem                |
-| https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2026.2.13 | 2026-09-07T16:46:30 | Budapesti Corvinus Egyetem                     |
+| https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | N/A       | N/A                 | N/A                                            |
 | https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2026.2.12 | 2026-08-31T15:31:07 | Eszterházy Károly Katolikus Egyetem            |
 | https://neptunweb.nye.hu/hallgato/              | 2026.2.4  | 2026-07-24T15:46:58 | Nyíregyházi Egyetem                            |
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2026.2.14 | 2026-09-10T18:00:17 | Nemzeti Közszolgálati Egyetem                  |
-| https://neptunweb1.metropolitan.hu/hallgato/    | 2026.2.11 | 2026-08-14T16:56:41 | Budapesti Metropolitan Egyetem                 |
-| https://neptunweb2.metropolitan.hu/hallgato/    | 2026.2.11 | 2026-08-14T16:56:41 | Budapesti Metropolitan Egyetem                 |
+| https://neptunweb1.metropolitan.hu/hallgato/    | 2026.2.14 | 2026-09-10T18:00:17 | Budapesti Metropolitan Egyetem                 |
+| https://neptunweb2.metropolitan.hu/hallgato/    | 2026.2.14 | 2026-09-10T18:00:17 | Budapesti Metropolitan Egyetem                 |
 | https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2026.2.14 | 2026-09-10T18:00:17 | Debreceni Egyetem                              |
