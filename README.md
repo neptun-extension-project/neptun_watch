@@ -27,7 +27,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2026.2.15 | 2026-09-15T12:26:16 | Pannon Egyetem                                 |
 | https://neptun.bme.hu/hallgatoi/                | 2026.2.15 | 2026-09-15T12:26:16 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
-| https://neptun.ejf.hu/hallgato_ng/              | 2026.2.13 | 2026-09-07T16:46:30 | Eötvös József Főiskola                         |
+| https://neptun.ejf.hu/hallgato_ng/              | 2026.2.15 | 2026-09-15T12:26:16 | Eötvös József Főiskola                         |
 | https://neptun.gde.hu/hallgato/                 | 2026.2.15 | 2026-09-15T12:26:16 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.2.15 | 2026-09-15T12:26:16 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.2.15 | 2026-09-15T12:26:16 | Liszt Ferenc Zeneművészeti Egyetem             |
@@ -35,7 +35,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.szte.hu/hallgato/                | 2026.1.19 | 2026-07-10T10:44:07 | Szegedi Tudományegyetem                        |
 | https://neptun.tf.hu/hallgato/                  | 2026.2.12 | 2026-08-31T15:31:07 | Magyar Testnevelési és Sporttudományi Egyetem  |
 | https://neptun.uni-milton.hu/hallgato/          | 2026.2.15 | 2026-09-15T12:26:16 | Milton Friedman Egyetem                        |
-| https://neptun.uni-obuda.hu/ujhallgato/         | 2026.2.13 | 2026-09-07T16:46:30 | Óbudai Egyetem                                 |
+| https://neptun.uni-obuda.hu/ujhallgato/         | 2026.2.15 | 2026-09-15T12:26:16 | Óbudai Egyetem                                 |
 | https://neptun.unithe.hu/hallgato/              | 2026.2.15 | 2026-09-15T12:26:16 | Tokaj-Hegyalja Egyetem                         |
 | https://neptun.univet.hu/ate_hw/                | 2026.2.15 | 2026-09-15T12:26:16 | Állatorvostudományi Egyetem                    |
 | https://neptun.vhf.hu/hallgato_ng/              | 2026.2.14 | 2026-09-10T18:00:17 | Veszprémi Érseki Főiskola                      |
