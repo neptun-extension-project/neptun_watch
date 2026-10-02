@@ -16,7 +16,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/mtfhw/                   | 2026.2.15 | 2026-09-15T12:26:16 | Magyar Táncművészeti Egyetem                   |
 | https://host.sdakft.hu/szfehw/                  | 2026.2.15 | 2026-09-15T12:26:16 | Színház- és Filmművészeti Egyetem              |
 | https://host.sdakft.hu/tkbfhw/                  | 2026.2.15 | 2026-09-15T12:26:16 | A Tan Kapuja Buddhista Főiskola                |
-| https://nappw.dfad.duf.hu/hallgato_ng/          | 2026.2.13 | 2026-09-07T16:46:30 | Dunaújvárosi Egyetem                           |
+| https://nappw.dfad.duf.hu/hallgato_ng/          | 2026.2.16 | 2026-09-24T13:14:17 | Dunaújvárosi Egyetem                           |
 | https://neptun-hweb.sze.hu/hallgato_ng/         | 2026.2.13 | 2026-09-07T16:46:30 | Széchenyi István Egyetem                       |
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.2.16 | 2026-09-24T13:14:17 | Pécsi Tudományegyetem                          |
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.2.16 | 2026-09-24T13:14:17 | Pécsi Tudományegyetem                          |
