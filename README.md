@@ -4,11 +4,11 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                             | Version   | Generation Date     | Organization Name                              |
 |:----------------------------------------------|:--------|:------------------|:---------------------------------------------|
-| https://hallgato1.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
-| https://hallgato2.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
-| https://hallgato3.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
-| https://hallgato4.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
-| https://hallgato5.neptun.elte.hu/               | N/A       | N/A                 | N/A                                            |
+| https://hallgato1.neptun.elte.hu/               | 2026.2.16 | 2026-09-24T13:14:17 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato2.neptun.elte.hu/               | 2026.2.16 | 2026-09-24T13:14:17 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato3.neptun.elte.hu/               | 2026.2.16 | 2026-09-24T13:14:17 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato4.neptun.elte.hu/               | 2026.2.16 | 2026-09-24T13:14:17 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato5.neptun.elte.hu/               | 2026.2.16 | 2026-09-24T13:14:17 | Eötvös Loránd Tudományegyetem                  |
 | https://host.sdakft.hu/bjhfhw/                  | 2026.2.16 | 2026-09-24T13:14:17 | Brenner János Hittudományi Főiskola            |
 | https://host.sdakft.hu/drhehw/                  | 2026.2.16 | 2026-09-24T13:14:17 | Debreceni Református Hittudományi Egyetem      |
 | https://host.sdakft.hu/gfehw/                   | 2026.2.16 | 2026-09-24T13:14:17 | Gál Ferenc Egyetem                             |
