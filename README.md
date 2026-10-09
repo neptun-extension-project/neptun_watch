@@ -25,7 +25,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-ws01.uni-pannon.hu/hallgato/     | 2026.2.17 | 2026-10-06T13:53:33 | Pannon Egyetem                                 |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2026.2.17 | 2026-10-06T13:53:33 | Pannon Egyetem                                 |
-| https://neptun.bme.hu/hallgatoi/                | 2026.2.16 | 2026-09-24T13:14:17 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
+| https://neptun.bme.hu/hallgatoi/                | 2026.2.17 | 2026-10-06T13:53:33 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
 | https://neptun.ejf.hu/hallgato_ng/              | 2026.2.15 | 2026-09-15T12:26:16 | Eötvös József Főiskola                         |
 | https://neptun.gde.hu/hallgato/                 | 2026.2.17 | 2026-10-06T13:53:33 | Gábor Dénes Egyetem                            |
