@@ -16,14 +16,14 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://host.sdakft.hu/mtfhw/                   | 2026.2.18 | 2026-10-16T13:25:33 | Magyar Táncművészeti Egyetem                  |
 | https://host.sdakft.hu/szfehw/                  | 2026.2.18 | 2026-10-16T13:25:33 | Színház- és Filmművészeti Egyetem             |
 | https://host.sdakft.hu/tkbfhw/                  | 2026.2.18 | 2026-10-16T13:25:33 | A Tan Kapuja Buddhista Főiskola               |
-| https://nappw.dfad.duf.hu/hallgato_ng/          | 2026.2.16 | 2026-09-24T13:14:17 | Dunaújvárosi Egyetem                          |
+| https://nappw.dfad.duf.hu/hallgato_ng/          | 2026.2.18 | 2026-10-16T13:25:33 | Dunaújvárosi Egyetem                          |
 | https://neptun-hweb.sze.hu/hallgato_ng/         | 2026.2.13 | 2026-09-07T16:46:30 | Széchenyi István Egyetem                      |
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.2.18 | 2026-10-16T13:25:33 | Pécsi Tudományegyetem                         |
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.2.18 | 2026-10-16T13:25:33 | Pécsi Tudományegyetem                         |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2026.2.18 | 2026-10-16T13:25:33 | Pécsi Tudományegyetem                         |
 | https://neptun-web4.tr.pte.hu/hallgato/         | 2026.2.18 | 2026-10-16T13:25:33 | Pécsi Tudományegyetem                         |
 | https://neptun-ws01.uni-pannon.hu/hallgato/     | 2026.2.17 | 2026-10-06T13:53:33 | Pannon Egyetem                                |
-| https://neptun-ws02.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                           |
+| https://neptun-ws02.uni-pannon.hu/hallgato/     | 2026.2.17 | 2026-10-06T13:53:33 | Pannon Egyetem                                |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2026.2.17 | 2026-10-06T13:53:33 | Pannon Egyetem                                |
 | https://neptun.bme.hu/hallgatoi/                | N/A       | N/A                 | N/A                                           |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                           |
