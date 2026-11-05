@@ -28,7 +28,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.bme.hu/hallgatoi/                | 2026.2.18 | 2026-10-16T13:25:33 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
 | https://neptun.ejf.hu/hallgato_ng/              | 2026.2.17 | 2026-10-06T13:53:33 | Eötvös József Főiskola                         |
-| https://neptun.gde.hu/hallgato/                 | 2026.2.18 | 2026-10-16T13:25:33 | Gábor Dénes Egyetem                            |
+| https://neptun.gde.hu/hallgato/                 | 2026.2.19 | 2026-10-27T09:51:37 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.2.19 | 2026-10-27T09:51:37 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.2.18 | 2026-10-16T13:25:33 | Liszt Ferenc Zeneművészeti Egyetem             |
 | https://neptun.or-zse.hu/hallgato/              | 2026.2.18 | 2026-10-16T13:25:33 | Országos Rabbiképző - Zsidó Egyetem            |
@@ -42,7 +42,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                            |
 | https://neptun2.ppke.hu/hallgato_uj/            | 2026.2.18 | 2026-10-16T13:25:33 | Pázmány Péter Katolikus Egyetem                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2026.2.18 | 2026-10-16T13:25:33 | Pázmány Péter Katolikus Egyetem                |
-| https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2026.2.18 | 2026-10-16T13:25:33 | Budapesti Corvinus Egyetem                     |
+| https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2026.2.19 | 2026-10-27T09:51:37 | Budapesti Corvinus Egyetem                     |
 | https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2026.2.16 | 2026-09-24T13:14:17 | Eszterházy Károly Katolikus Egyetem            |
 | https://neptunweb.nye.hu/hallgato/              | 2026.2.4  | 2026-07-24T15:46:58 | Nyíregyházi Egyetem                            |
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2026.2.19 | 2026-10-27T09:51:37 | Nemzeti Közszolgálati Egyetem                  |
