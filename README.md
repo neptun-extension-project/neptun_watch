@@ -9,13 +9,13 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://hallgato3.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato4.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato5.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
-| https://host.sdakft.hu/bjhfhw/                  | 2026.2.18 | 2026-10-16T13:25:33 | Brenner János Hittudományi Főiskola            |
-| https://host.sdakft.hu/drhehw/                  | 2026.2.18 | 2026-10-16T13:25:33 | Debreceni Református Hittudományi Egyetem      |
+| https://host.sdakft.hu/bjhfhw/                  | 2026.2.20 | 2026-11-04T12:50:15 | Brenner János Hittudományi Főiskola            |
+| https://host.sdakft.hu/drhehw/                  | 2026.2.20 | 2026-11-04T12:50:15 | Debreceni Református Hittudományi Egyetem      |
 | https://host.sdakft.hu/gfehw/                   | 2026.2.20 | 2026-11-04T12:50:15 | Gál Ferenc Egyetem                             |
-| https://host.sdakft.hu/momehw/                  | 2026.2.18 | 2026-10-16T13:25:33 | Moholy-Nagy Művészeti Egyetem                  |
-| https://host.sdakft.hu/mtfhw/                   | 2026.2.18 | 2026-10-16T13:25:33 | Magyar Táncművészeti Egyetem                   |
-| https://host.sdakft.hu/szfehw/                  | 2026.2.18 | 2026-10-16T13:25:33 | Színház- és Filmművészeti Egyetem              |
-| https://host.sdakft.hu/tkbfhw/                  | 2026.2.18 | 2026-10-16T13:25:33 | A Tan Kapuja Buddhista Főiskola                |
+| https://host.sdakft.hu/momehw/                  | 2026.2.20 | 2026-11-04T12:50:15 | Moholy-Nagy Művészeti Egyetem                  |
+| https://host.sdakft.hu/mtfhw/                   | 2026.2.20 | 2026-11-04T12:50:15 | Magyar Táncművészeti Egyetem                   |
+| https://host.sdakft.hu/szfehw/                  | 2026.2.20 | 2026-11-04T12:50:15 | Színház- és Filmművészeti Egyetem              |
+| https://host.sdakft.hu/tkbfhw/                  | 2026.2.20 | 2026-11-04T12:50:15 | A Tan Kapuja Buddhista Főiskola                |
 | https://nappw.dfad.duf.hu/hallgato_ng/          | 2026.2.18 | 2026-10-16T13:25:33 | Dunaújvárosi Egyetem                           |
 | https://neptun-hweb.sze.hu/hallgato_ng/         | 2026.2.13 | 2026-09-07T16:46:30 | Széchenyi István Egyetem                       |
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Pécsi Tudományegyetem                          |
@@ -31,14 +31,14 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.gde.hu/hallgato/                 | 2026.2.19 | 2026-10-27T09:51:37 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.2.20 | 2026-11-04T12:50:15 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.2.20 | 2026-11-04T12:50:15 | Liszt Ferenc Zeneművészeti Egyetem             |
-| https://neptun.or-zse.hu/hallgato/              | 2026.2.18 | 2026-10-16T13:25:33 | Országos Rabbiképző - Zsidó Egyetem            |
+| https://neptun.or-zse.hu/hallgato/              | 2026.2.20 | 2026-11-04T12:50:15 | Országos Rabbiképző - Zsidó Egyetem            |
 | https://neptun.szte.hu/hallgato/                | 2026.1.19 | 2026-07-10T10:44:07 | Szegedi Tudományegyetem                        |
 | https://neptun.tf.hu/hallgato/                  | 2026.2.20 | 2026-11-04T12:50:15 | Magyar Testnevelési és Sporttudományi Egyetem  |
 | https://neptun.uni-milton.hu/hallgato/          | 2026.2.18 | 2026-10-16T13:25:33 | Milton Friedman Egyetem                        |
 | https://neptun.uni-obuda.hu/ujhallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Óbudai Egyetem                                 |
 | https://neptun.unithe.hu/hallgato/              | 2026.2.20 | 2026-11-04T12:50:15 | Tokaj-Hegyalja Egyetem                         |
-| https://neptun.univet.hu/ate_hw/                | 2026.2.18 | 2026-10-16T13:25:33 | Állatorvostudományi Egyetem                    |
-| https://neptun.vhf.hu/hallgato_ng/              | 2026.2.19 | 2026-10-27T09:51:37 | Veszprémi Érseki Főiskola                      |
+| https://neptun.univet.hu/ate_hw/                | 2026.2.20 | 2026-11-04T12:50:15 | Állatorvostudományi Egyetem                    |
+| https://neptun.vhf.hu/hallgato_ng/              | 2026.2.20 | 2026-11-04T12:50:15 | Veszprémi Érseki Főiskola                      |
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                            |
 | https://neptun2.ppke.hu/hallgato_uj/            | 2026.2.18 | 2026-10-16T13:25:33 | Pázmány Péter Katolikus Egyetem                |
 | https://neptun3.ppke.hu/hallgato_uj/            | 2026.2.18 | 2026-10-16T13:25:33 | Pázmány Péter Katolikus Egyetem                |
