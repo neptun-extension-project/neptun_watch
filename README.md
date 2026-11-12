@@ -28,7 +28,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.bme.hu/hallgatoi/                | 2026.2.20 | 2026-11-04T12:50:15 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
 | https://neptun.ejf.hu/hallgato_ng/              | 2026.2.17 | 2026-10-06T13:53:33 | Eötvös József Főiskola                         |
-| https://neptun.gde.hu/hallgato/                 | 2026.3.1  | 2026-11-04T15:07:57 | Gábor Dénes Egyetem                            |
+| https://neptun.gde.hu/hallgato/                 | 2026.3.2  | 2026-11-11T09:51:34 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.2.20 | 2026-11-04T12:50:15 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.2.20 | 2026-11-04T12:50:15 | Liszt Ferenc Zeneművészeti Egyetem             |
 | https://neptun.or-zse.hu/hallgato/              | 2026.2.20 | 2026-11-04T12:50:15 | Országos Rabbiképző - Zsidó Egyetem            |
