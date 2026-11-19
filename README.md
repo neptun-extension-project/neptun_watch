@@ -22,7 +22,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Pécsi Tudományegyetem                          |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Pécsi Tudományegyetem                          |
 | https://neptun-web4.tr.pte.hu/hallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Pécsi Tudományegyetem                          |
-| https://neptun-ws01.uni-pannon.hu/hallgato/     | 2026.2.19 | 2026-10-27T09:51:37 | Pannon Egyetem                                 |
+| https://neptun-ws01.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | 2026.2.19 | 2026-10-27T09:51:37 | Pannon Egyetem                                 |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2026.2.19 | 2026-10-27T09:51:37 | Pannon Egyetem                                 |
 | https://neptun.bme.hu/hallgatoi/                | 2026.2.20 | 2026-11-04T12:50:15 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
@@ -32,7 +32,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.2.20 | 2026-11-04T12:50:15 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.3.3  | 2026-11-12T15:02:47 | Liszt Ferenc Zeneművészeti Egyetem             |
 | https://neptun.or-zse.hu/hallgato/              | 2026.2.20 | 2026-11-04T12:50:15 | Országos Rabbiképző - Zsidó Egyetem            |
-| https://neptun.szte.hu/hallgato/                | 2026.1.19 | 2026-07-10T10:44:07 | Szegedi Tudományegyetem                        |
+| https://neptun.szte.hu/hallgato/                | 2026.2.20 | 2026-11-04T12:50:15 | Szegedi Tudományegyetem                        |
 | https://neptun.tf.hu/hallgato/                  | 2026.2.20 | 2026-11-04T12:50:15 | Magyar Testnevelési és Sporttudományi Egyetem  |
 | https://neptun.uni-milton.hu/hallgato/          | 2026.2.20 | 2026-11-04T12:50:15 | Milton Friedman Egyetem                        |
 | https://neptun.uni-obuda.hu/ujhallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Óbudai Egyetem                                 |
