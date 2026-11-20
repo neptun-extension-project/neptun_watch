@@ -22,7 +22,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun-web2.tr.pte.hu/hallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Pécsi Tudományegyetem                          |
 | https://neptun-web3.tr.pte.hu/hallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Pécsi Tudományegyetem                          |
 | https://neptun-web4.tr.pte.hu/hallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Pécsi Tudományegyetem                          |
-| https://neptun-ws01.uni-pannon.hu/hallgato/     | N/A       | N/A                 | N/A                                            |
+| https://neptun-ws01.uni-pannon.hu/hallgato/     | 2026.2.19 | 2026-10-27T09:51:37 | Pannon Egyetem                                 |
 | https://neptun-ws02.uni-pannon.hu/hallgato/     | 2026.2.19 | 2026-10-27T09:51:37 | Pannon Egyetem                                 |
 | https://neptun-ws03.uni-pannon.hu/hallgato/     | 2026.2.19 | 2026-10-27T09:51:37 | Pannon Egyetem                                 |
 | https://neptun.bme.hu/hallgatoi/                | 2026.2.20 | 2026-11-04T12:50:15 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
