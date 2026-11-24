@@ -46,6 +46,6 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2026.2.20 | 2026-11-04T12:50:15 | Eszterházy Károly Katolikus Egyetem            |
 | https://neptunweb.nye.hu/hallgato/              | 2026.2.20 | 2026-11-04T12:50:15 | Nyíregyházi Egyetem                            |
 | https://neptunweb.uni-nke.hu/hallgato_ng/       | 2026.2.20 | 2026-11-04T12:50:15 | Nemzeti Közszolgálati Egyetem                  |
-| https://neptunweb1.metropolitan.hu/hallgato/    | N/A       | N/A                 | N/A                                            |
-| https://neptunweb2.metropolitan.hu/hallgato/    | N/A       | N/A                 | N/A                                            |
+| https://neptunweb1.metropolitan.hu/hallgato/    | 2026.2.20 | 2026-11-04T12:50:15 | Budapesti Metropolitan Egyetem                 |
+| https://neptunweb2.metropolitan.hu/hallgato/    | 2026.2.20 | 2026-11-04T12:50:15 | Budapesti Metropolitan Egyetem                 |
 | https://www-h-ng.neptun.unideb.hu/hallgato_ng/  | 2026.2.20 | 2026-11-04T12:50:15 | Debreceni Egyetem                              |
