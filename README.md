@@ -10,9 +10,9 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://hallgato4.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
 | https://hallgato5.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
 | https://host.sdakft.hu/bjhfhw/                  | 2026.3.3  | 2026-11-12T15:02:47 | Brenner János Hittudományi Főiskola            |
-| https://host.sdakft.hu/drhehw/                  | 2026.2.20 | 2026-11-04T12:50:15 | Debreceni Református Hittudományi Egyetem      |
+| https://host.sdakft.hu/drhehw/                  | 2026.3.4  | 2026-11-23T16:16:43 | Debreceni Református Hittudományi Egyetem      |
 | https://host.sdakft.hu/gfehw/                   | 2026.2.20 | 2026-11-04T12:50:15 | Gál Ferenc Egyetem                             |
-| https://host.sdakft.hu/momehw/                  | 2026.2.20 | 2026-11-04T12:50:15 | Moholy-Nagy Művészeti Egyetem                  |
+| https://host.sdakft.hu/momehw/                  | 2026.3.4  | 2026-11-23T16:16:43 | Moholy-Nagy Művészeti Egyetem                  |
 | https://host.sdakft.hu/mtfhw/                   | 2026.3.3  | 2026-11-12T15:02:47 | Magyar Táncművészeti Egyetem                   |
 | https://host.sdakft.hu/szfehw/                  | 2026.2.20 | 2026-11-04T12:50:15 | Színház- és Filmművészeti Egyetem              |
 | https://host.sdakft.hu/tkbfhw/                  | 2026.3.3  | 2026-11-12T15:02:47 | A Tan Kapuja Buddhista Főiskola                |
@@ -36,7 +36,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.tf.hu/hallgato/                  | 2026.2.20 | 2026-11-04T12:50:15 | Magyar Testnevelési és Sporttudományi Egyetem  |
 | https://neptun.uni-milton.hu/hallgato/          | 2026.2.20 | 2026-11-04T12:50:15 | Milton Friedman Egyetem                        |
 | https://neptun.uni-obuda.hu/ujhallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Óbudai Egyetem                                 |
-| https://neptun.unithe.hu/hallgato/              | 2026.3.3  | 2026-11-12T15:02:47 | Tokaj-Hegyalja Egyetem                         |
+| https://neptun.unithe.hu/hallgato/              | 2026.3.4  | 2026-11-23T16:16:43 | Tokaj-Hegyalja Egyetem                         |
 | https://neptun.univet.hu/ate_hw/                | 2026.2.20 | 2026-11-04T12:50:15 | Állatorvostudományi Egyetem                    |
 | https://neptun.vhf.hu/hallgato_ng/              | 2026.3.3  | 2026-11-12T15:02:47 | Veszprémi Érseki Főiskola                      |
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                            |
