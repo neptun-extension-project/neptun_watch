@@ -28,7 +28,7 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.bme.hu/hallgatoi/                | 2026.2.20 | 2026-11-04T12:50:15 | Budapesti Műszaki és Gazdaságtudományi Egyetem |
 | https://neptun.edutus.hu/hallgato_ng/           | N/A       | N/A                 | N/A                                            |
 | https://neptun.ejf.hu/hallgato_ng/              | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös József Főiskola                         |
-| https://neptun.gde.hu/hallgato/                 | 2026.3.3  | 2026-11-12T15:02:47 | Gábor Dénes Egyetem                            |
+| https://neptun.gde.hu/hallgato/                 | 2026.3.4  | 2026-11-23T16:16:43 | Gábor Dénes Egyetem                            |
 | https://neptun.kodolanyi.hu/hallgato_NG/        | 2026.2.20 | 2026-11-04T12:50:15 | Kodolányi János Egyetem                        |
 | https://neptun.lfze.hu/hallgato/                | 2026.3.3  | 2026-11-12T15:02:47 | Liszt Ferenc Zeneművészeti Egyetem             |
 | https://neptun.or-zse.hu/hallgato/              | 2026.2.20 | 2026-11-04T12:50:15 | Országos Rabbiképző - Zsidó Egyetem            |
@@ -40,8 +40,8 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 | https://neptun.univet.hu/ate_hw/                | 2026.2.20 | 2026-11-04T12:50:15 | Állatorvostudományi Egyetem                    |
 | https://neptun.vhf.hu/hallgato_ng/              | 2026.3.3  | 2026-11-12T15:02:47 | Veszprémi Érseki Főiskola                      |
 | https://neptun.wsuf.hu/hallgatoing/             | N/A       | N/A                 | N/A                                            |
-| https://neptun2.ppke.hu/hallgato_uj/            | 2026.3.3  | 2026-11-12T15:02:47 | Pázmány Péter Katolikus Egyetem                |
-| https://neptun3.ppke.hu/hallgato_uj/            | 2026.3.3  | 2026-11-12T15:02:47 | Pázmány Péter Katolikus Egyetem                |
+| https://neptun2.ppke.hu/hallgato_uj/            | 2026.3.4  | 2026-11-23T16:16:43 | Pázmány Péter Katolikus Egyetem                |
+| https://neptun3.ppke.hu/hallgato_uj/            | 2026.3.4  | 2026-11-23T16:16:43 | Pázmány Péter Katolikus Egyetem                |
 | https://neptun3r.web.uni-corvinus.hu/Hallgatoi/ | 2026.2.20 | 2026-11-04T12:50:15 | Budapesti Corvinus Egyetem                     |
 | https://neptunh.uni-eszterhazy.hu/Hallgato/     | 2026.2.20 | 2026-11-04T12:50:15 | Eszterházy Károly Katolikus Egyetem            |
 | https://neptunweb.nye.hu/hallgato/              | 2026.2.20 | 2026-11-04T12:50:15 | Nyíregyházi Egyetem                            |
