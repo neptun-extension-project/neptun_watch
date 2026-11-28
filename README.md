@@ -4,18 +4,18 @@ Itt egy naponta frissülő listát találsz, ami az új Neptun szerverek verzió
 
 | URL                                             | Version   | Generation Date     | Organization Name                              |
 |:----------------------------------------------|:--------|:------------------|:---------------------------------------------|
-| https://hallgato1.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato2.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato3.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato4.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
-| https://hallgato5.neptun.elte.hu/               | 2026.2.20 | 2026-11-04T12:50:15 | Eötvös Loránd Tudományegyetem                  |
-| https://host.sdakft.hu/bjhfhw/                  | 2026.3.3  | 2026-11-12T15:02:47 | Brenner János Hittudományi Főiskola            |
+| https://hallgato1.neptun.elte.hu/               | 2026.3.4  | 2026-11-23T16:16:43 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato2.neptun.elte.hu/               | 2026.3.4  | 2026-11-23T16:16:43 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato3.neptun.elte.hu/               | 2026.3.4  | 2026-11-23T16:16:43 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato4.neptun.elte.hu/               | 2026.3.4  | 2026-11-23T16:16:43 | Eötvös Loránd Tudományegyetem                  |
+| https://hallgato5.neptun.elte.hu/               | 2026.3.4  | 2026-11-23T16:16:43 | Eötvös Loránd Tudományegyetem                  |
+| https://host.sdakft.hu/bjhfhw/                  | 2026.3.4  | 2026-11-23T16:16:43 | Brenner János Hittudományi Főiskola            |
 | https://host.sdakft.hu/drhehw/                  | 2026.3.4  | 2026-11-23T16:16:43 | Debreceni Református Hittudományi Egyetem      |
 | https://host.sdakft.hu/gfehw/                   | 2026.2.20 | 2026-11-04T12:50:15 | Gál Ferenc Egyetem                             |
 | https://host.sdakft.hu/momehw/                  | 2026.3.4  | 2026-11-23T16:16:43 | Moholy-Nagy Művészeti Egyetem                  |
-| https://host.sdakft.hu/mtfhw/                   | 2026.3.3  | 2026-11-12T15:02:47 | Magyar Táncművészeti Egyetem                   |
+| https://host.sdakft.hu/mtfhw/                   | 2026.3.4  | 2026-11-23T16:16:43 | Magyar Táncművészeti Egyetem                   |
 | https://host.sdakft.hu/szfehw/                  | 2026.2.20 | 2026-11-04T12:50:15 | Színház- és Filmművészeti Egyetem              |
-| https://host.sdakft.hu/tkbfhw/                  | 2026.3.3  | 2026-11-12T15:02:47 | A Tan Kapuja Buddhista Főiskola                |
+| https://host.sdakft.hu/tkbfhw/                  | 2026.3.4  | 2026-11-23T16:16:43 | A Tan Kapuja Buddhista Főiskola                |
 | https://nappw.dfad.duf.hu/hallgato_ng/          | 2026.2.18 | 2026-10-16T13:25:33 | Dunaújvárosi Egyetem                           |
 | https://neptun-hweb.sze.hu/hallgato_ng/         | 2026.2.13 | 2026-09-07T16:46:30 | Széchenyi István Egyetem                       |
 | https://neptun-web1.tr.pte.hu/hallgato/         | 2026.2.20 | 2026-11-04T12:50:15 | Pécsi Tudományegyetem                          |
